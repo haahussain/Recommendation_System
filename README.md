@@ -49,8 +49,10 @@ The overall rating for each company had to be discarded from our analysis, but t
 
 #### Future Considerations
 ![InteractiveExample](scrapers/InteractiveVersion.jpg "Test Case Example using Interactive")
-* _Find & Merge Related Datasets_
-* _Deeper Layers of both EDA anD Modeling_
+More Data!
+* _Find & Merge Related Datasets (including broader set of features)_
+* _Deeper Layers of both EDA and Modeling_
+* _(if at all possible) Finding a way to include user-based data would open up many possibilities)_
 
 #### Conclusions
 * Euclidean similarity metric turned out to be the best metric because the top 5 recommended companies features were more relatable to our test company
