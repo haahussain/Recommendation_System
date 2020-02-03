@@ -43,9 +43,19 @@ The overall rating for each company had to be discarded from our analysis, but t
 - Various similarity metrics (Cosine, Minkowski, and Euclidean) were experimented with, along with 1-3 input companies
 - (Preliminary test cases need to be further implemented)
 
-#### Results 
-![Cosine_Metric](scrapers/Sim_Cosine.jpg "Test Case using Cosine Similarity")
-![Euclidean_Metric](scrapers/Sim_Euclidean.jpg "Test Case using Euclidean Similarity")
+#### Results
+Lets say the following are our Top 3 favorite companies:
+![Top3_companies_preferred](images/preferred3companies.png "Test Case our top3 companies")
+
+The Top 5 most similar to our favorite companies using Cosine as distance metric would be: 
+![New_Cosine_Metric](images/resultforCosine.png "Test Case using Cosine Similarity Score")
+
+The Top 5 most similar to our favorite companies using Minkowski as distance metric would be: 
+![New_Minkowski_Metric](images/resultforMinkow.png "Test Case using Minkow Similarity Score")
+
+###### The Winner
+The Top 5 most similar to our favorite companies using Euclidean as distance metric would be: 
+![New_Euclidean_Metric](images/resultforEuclidean.png "Test Case using Euclidean Similarity Score")
 
 #### Future Considerations
 ![InteractiveExample](scrapers/InteractiveVersion.jpg "Test Case Example using Interactive")
@@ -55,5 +65,5 @@ More Data!
 * _(if at all possible) Finding a way to include user-based data would open up many possibilities)_
 
 #### Conclusions
-* Euclidean similarity metric turned out to be the best metric because the top 5 recommended companies features were more relatable to our test company
+* Euclidean similarity metric turned out to be the best metric because the top 5 recommended companies features were more relatable to our group of favorite companies. The results using the Euclidean metric were the most similar and comparable to our favorite 3 companies across the various features. 
 * (To be continued)
