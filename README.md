@@ -7,22 +7,20 @@ To create a recommendation system that suggests the top (custom) # of potential 
 ## Sources/Tools
 Primary data gathered from Glassdoor.com:
 * Considered the top 5,000 potential employers returned (using search results for New York City)
-Secondary sources of data include:
-- 1)
-- 2)
+
 
 We created a content-based, item-to-item recommendation system using the K-Nearest Neighbors (Unsupervised Learning) algorithm along with:
 * Beautiful Soup
-* selenium
+* Selenium
 * (MySQL Server)
-* scikitlearn library
+* Scikitlearn library
 
 ## Exploratory Data Analysis
 (EDA Graphics here)
 #### Challenges
-- Anonymous Users/Ratings: Missed opportunities to glean _user-based_ insights
+- Anonymous Users/Ratings: Cannot utilized collaborativ filtering method approach
 - Had to Discard Main Company Rating: since it has no comparative relevance without user data
-- No API/manual scraping (50 companies at a time)
+- Manual scraping (50 companies at a time)
 
 
 ## Features
@@ -31,7 +29,7 @@ Several Categories were too granular, and thus rolled up to broader categories:
 * Company Size: 8 rolled up to 4
 * Revenue: 14 rolled up to 4
 
-The overall rating for each company had to be discarded from our analysis, but the sub-ratings were included (1-5):
+Sub-ratings were included as well with ratings from lowest to highest being 1-5:
 * Culture & Values
 * Work/Life Balance
 * Senior Management
@@ -45,17 +43,17 @@ The overall rating for each company had to be discarded from our analysis, but t
 
 #### Results
 Lets say the following are our Top 3 favorite companies:
-![Top3_companies_preferred](images/preferred3companies.png "Test Case our top3 companies")
+![Top3_companies_preferred](images/TOP3Again.png "Test Case our top3 companies")
 
 The Top 5 most similar to our favorite companies using Cosine as distance metric would be: 
-![New_Cosine_Metric](images/resultforCosine.png "Test Case using Cosine Similarity Score")
+![New_Cosine_Metric](images/RESULTCOSINE.png "Test Case using Cosine Similarity Score")
 
 The Top 5 most similar to our favorite companies using Minkowski as distance metric would be: 
-![New_Minkowski_Metric](images/resultforMinkow.png "Test Case using Minkow Similarity Score")
+![New_Minkowski_Metric](images/RESULTMINKOW.png "Test Case using Minkow Similarity Score")
 
 ###### The Winner
 The Top 5 most similar to our favorite companies using Euclidean as distance metric would be: 
-![New_Euclidean_Metric](images/resultforEuclidean.png "Test Case using Euclidean Similarity Score")
+![New_Euclidean_Metric](images/RESULTEUC.png "Test Case using Euclidean Similarity Score")
 
 #### Future Considerations
 ![InteractiveExample](scrapers/InteractiveVersion.jpg "Test Case Example using Interactive")
@@ -66,4 +64,4 @@ More Data!
 
 #### Conclusions
 * Euclidean similarity metric turned out to be the best metric because the top 5 recommended companies features were more relatable to our group of favorite companies. The results using the Euclidean metric were the most similar and comparable to our favorite 3 companies across the various features. 
-* (To be continued)
+
