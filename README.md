@@ -2,7 +2,7 @@
 by Ali Hussain and Jay Kim
 
 ## Goal
-To create a recommendation system that suggests the top (custom) # of potential employers based on the user's input of comparable employer(s). In other words, the user selects the preferred employer(s); then our system recommends other employers the user should consider based on similar features.
+To create a recommendation system that suggests the top potential employers based on the user's input of comparable employer(s). In other words, the user selects the preferred employer(s); then our system recommends other employers the user should consider based on similar features.
 
 ## Sources/Tools
 Primary data gathered from Glassdoor.com:
