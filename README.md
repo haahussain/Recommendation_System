@@ -16,18 +16,24 @@ We created a content-based, item-to-item recommendation system using the K-Neare
 * Scikitlearn library
 
 ## Exploratory Data Analysis
-(EDA Graphics here)
+Bar graph Illustrating Popularity of Industry Type:
+![EDAonIndustry](images/industry_count.png "count_for_industry")
+
+Distribution of Overall Rating for all Companies: 
+
+![EDAonOverallranking](images/overall_rating_distribution.png "distribution for overall rating")
+
+
 #### Challenges
-- Anonymous Users/Ratings: Cannot utilized collaborativ filtering method approach
-- Had to Discard Main Company Rating: since it has no comparative relevance without user data
+- Anonymous Users/Ratings: Cannot utilized collaborative filtering method approach
 - Manual scraping (50 companies at a time)
 
 
 ## Features
 Several Categories were too granular, and thus rolled up to broader categories:
-* Industry: 84 rolled up to 12
-* Company Size: 8 rolled up to 4
-* Revenue: 14 rolled up to 4
+* Industry: 84 rolled up to 12 categories
+* Company Size: 8 rolled up to 4 categories
+* Revenue: 14 rolled up to 4 categories
 
 Sub-ratings were included as well with ratings from lowest to highest being 1-5:
 * Culture & Values
