@@ -30,10 +30,10 @@ Distribution of Overall Rating for all Companies:
 
 
 ## Features
-Several Categories were too granular, and thus rolled up to broader categories:
-* Industry: 84 rolled up to 12 categories
-* Company Size: 8 rolled up to 4 categories
-* Revenue: 14 rolled up to 4 categories
+Several Categories were too granular, and thus engineered into broader categories:
+* Industry: 84 engineered into 12 categories
+* Company Size: 8 engineered into 4 categories
+* Revenue: 14 engineered intoto 4 categories
 
 Sub-ratings were included as well with ratings from lowest to highest being 1-5:
 * Culture & Values
