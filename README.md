@@ -2,18 +2,17 @@
 by Ali Hussain and Jay Kim
 
 ## Goal
-To create a recommendation system that suggests the top potential employers based on the user's input of comparable employer(s). In other words, the user selects the preferred employer(s); then our system recommends other employers the user should consider based on similar features.
+To create a recommendation system that suggests the top potential employers based on the user's preferences. In other words, the user selects their preferred employer and based off of various features about the preferred employers our system finds the most similar features and recommends other employers the user should consider.
 
 ## Sources/Tools
 Primary data gathered from Glassdoor.com:
 * Considered the top 5,000 potential employers returned (using search results for New York City)
 
-
-We created a content-based, item-to-item recommendation system using the K-Nearest Neighbors (Unsupervised Learning) algorithm along with:
-* Beautiful Soup
+We created a content-based, item-to-item recommendation system using the K-Nearest Neighbors (Unsupervised Learning) algorithm. Python libraries included:
+* Scikin learn Beautiful Soup
+* Beautiful Soup 
 * Selenium
-* (MySQL Server)
-* Scikitlearn library
+* MySQL Server
 
 ## Exploratory Data Analysis
 Bar graph Illustrating Popularity of Industry Type:
@@ -25,7 +24,7 @@ Distribution of Overall Rating for all Companies:
 
 
 #### Challenges
-- Anonymous Users/Ratings: Cannot utilized collaborative filtering method approach
+- Anonymous Users/Ratings: Cannot utilize collaborative filtering method approach
 - Manual scraping (50 companies at a time)
 
 
@@ -44,8 +43,7 @@ Sub-ratings were included as well with ratings from lowest to highest being 1-5:
 
 #### Modeling
 - Nearest Neighbor Classification Model used to evaluate similarity across and between employers
-- Various similarity metrics (Cosine, Minkowski, and Euclidean) were experimented with, along with 1-3 input companies
-- (Preliminary test cases need to be further implemented)
+- Various similarity metrics (Cosine, Minkowski, and Euclidean) were experimented with, along with 1-3 input test companies
 
 #### Results
 Lets say the following are our Top 3 favorite companies:
