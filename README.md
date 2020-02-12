@@ -1,12 +1,12 @@
 # Employer Recommendation System
-by Ali Hussain and Jay Kim
+by Haider Hussain and Jay Kim
 
 ## Goal
 To create a recommendation system that suggests the top potential employers based on the user's preferences. In other words, the user selects their preferred employer and based off of various features about the preferred employers our system finds the most similar features and recommends other employers the user should consider.
 
 ## Sources/Tools
 Primary data gathered from Glassdoor.com:
-* Considered the top 5,000 potential employers returned (using search results for New York City)
+* Considered the top 5,000 potential employers. (using search results for New York City)
 
 We created a content-based, item-to-item recommendation system using the K-Nearest Neighbors (Unsupervised Learning) algorithm. Python libraries included:
 * Scikin learn Beautiful Soup
