@@ -64,7 +64,7 @@ The Top 5 most similar to our favorite companies using Euclidean as distance met
 More Data!
 * _Find & Merge Related Datasets (including broader set of features)_
 * _Deeper Layers of both EDA and Modeling_
-* _(if at all possible) Finding a way to include user-based data would open up many possibilities)_
+* _Finding a way to include user-based data would open up many possibilities_
 
 #### Conclusions
 * Euclidean similarity metric turned out to be the best metric because the top 5 recommended companies features were more relatable to our group of favorite companies. The results using the Euclidean metric were the most similar and comparable to our favorite 3 companies across the various features. 
