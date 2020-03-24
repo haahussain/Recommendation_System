@@ -4,7 +4,7 @@ by Haider Hussain and Jay Kim
 ## Goal
 To create a recommendation system that suggests the top potential employers based on the user's preferences. In other words, the user selects their preferred employer and based off of various features about the preferred employers our system finds the most similar features and recommends other employers the user should consider.
 
-## Sources/Tools
+## Sources and Tools
 Primary data gathered from Glassdoor.com:
 * Considered the top 5,000 potential employers. (using search results for New York City)
 
