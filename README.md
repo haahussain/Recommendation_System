@@ -2,7 +2,7 @@
 by Haider Hussain and Jay Kim
 
 ## Goal
-To create a recommendation system that suggests the top potential employers based on the user's preferences. In other words, the user selects their preferred employer and based off of various features about the preferred employers our system finds the most similar features and recommends other employers the user should consider.
+To create a recommendation system that suggests the top potential employers based on the user's preferences. First the user selects their preferred employer and based off of various features about the preferred employers our system finds the most similar employers the user should also consider.
 
 ## Sources and Tools
 Primary data gathered from Glassdoor.com:
