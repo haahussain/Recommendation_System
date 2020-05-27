@@ -1,0 +1,499 @@
+,Unnamed: 0,Company,Competitors,Founded,Headquarters,Industry,Now known as,Part of,Revenue,Size,Type,Area
+0,0,J.P. Morgan,, 1799,"New York, NY",Investment Banking & Asset Management,,, $10+ billion (USD) per year,10000+ employees, Company - Public (JPM) ,Finance
+1,1,IBM,, 1911,"Armonk, NY",IT Services,,, $10+ billion (USD) per year,10000+ employees, Company - Public (IBM) ,Technology
+2,2,Citi,, 1812,"New York, NY",Investment Banking & Asset Management,,, $10+ billion (USD) per year,10000+ employees, Company - Public (C) ,Finance
+3,3,Macy's,, 1858,"Cincinnati, OH","Department, Clothing, & Shoe Stores",,, $10+ billion (USD) per year,10000+ employees, Company - Public (M) ,Fashion/Retail
+4,4,Verizon,, 2000,"New York, NY",Telecommunications Services,,, $10+ billion (USD) per year,10000+ employees, Company - Public (VZ) ,Technology
+5,5,Morgan Stanley,, 1935,"New York, NY",Investment Banking & Asset Management,,, $10+ billion (USD) per year,10000+ employees, Company - Public (MS) ,Finance
+6,6,Goldman Sachs,, 1869,"New York, NY",Investment Banking & Asset Management,,, $10+ billion (USD) per year,10000+ employees, Company - Public (GS) ,Finance
+7,7,PwC,, 1998,"New York, NY",Accounting,,, $5 to $10 billion (USD) per year,10000+ employees, Company - Private,Finance
+8,8,EY,, 1989,"London, England (UK)",Accounting,,, $10+ billion (USD) per year,10000+ employees, Company - Private,Finance
+9,9,Deloitte,, 1850,"New York, NY",Accounting,,, $10+ billion (USD) per year,10000+ employees, Company - Private,Finance
+10,10,Cognizant Technology Solutions," Tata Consultancy Services, Accenture, Capgemini", 1994,"Teaneck, NJ",Unknown,,, $10+ billion (USD) per year,10000+ employees, Company - Public (CTSH) ,Goods & Svcs
+11,11,Bloomberg L.P.,, 1981,"New York, NY",Computer Hardware & Software,,, Unknown / Non-Applicable,10000+ employees, Company - Private,Technology
+12,12,Bank of America,, 1904,"Charlotte, NC",Banks & Credit Unions,,, $10+ billion (USD) per year,10000+ employees, Company - Public (BAC) ,Finance
+13,13,American Express,, 1850,"New York, NY",Financial Transaction Processing,,, $10+ billion (USD) per year,10000+ employees, Company - Public (AXP) ,Finance
+14,14,Columbia University, Unknown, 1938,"New York, NY",Colleges & Universities,,, $2 to $5 billion (USD) per year,10000+ employees, College / University,Education
+15,15,AIG,, 1919,"New York, NY",Insurance Carriers,,, $10+ billion (USD) per year,10000+ employees, Company - Public (AIG) ,Finance
+16,16,New York City Department of Education, Unknown, 1970,"New York, NY",Municipal Governments,,, $10+ billion (USD) per year,10000+ employees, Government,Govnt/Utilities
+17,17,NYU (New York University), Unknown, 1831,"New York, NY",Colleges & Universities,,, $5 to $10 billion (USD) per year,10000+ employees, College / University,Education
+18,18,KPMG," PwC, Deloitte, EY", 1987,"New York, NY",Accounting,,, $2 to $5 billion (USD) per year,10000+ employees, Subsidiary or Business Segment,Finance
+19,19,Viacom,, 1971,"New York, NY",Motion Picture Production & Distribution,,, $10+ billion (USD) per year,5001 to 10000 employees, Company - Public (VIA) ,Entertainment
+20,20,Rutgers University, Unknown, 1766,"Piscataway, NJ",Colleges & Universities,,, $2 to $5 billion (USD) per year,5001 to 10000 employees, College / University,Education
+21,21,Johnson & Johnson,, 1887,"New Brunswick, NJ",Biotech & Pharmaceuticals,,, $10+ billion (USD) per year,10000+ employees, Company - Public (JNJ) ,Health
+22,22,UBS,, 1862,Zürich (Switzerland),Investment Banking & Asset Management,,, $10+ billion (USD) per year,10000+ employees, Company - Public (UBS) ,Finance
+23,23,Target,, 1962,"Minneapolis, MN",General Merchandise & Superstores,,, $10+ billion (USD) per year,10000+ employees, Company - Public (TGT) ,Goods & Svcs
+24,24,Credit Suisse,, 1856,Zürich (Switzerland),Investment Banking & Asset Management,,, $10+ billion (USD) per year,10000+ employees, Company - Public (CS) ,Finance
+25,25,Thomson Reuters,, 2008,"Toronto, ON (Canada)",Enterprise Software & Network Solutions,,, $10+ billion (USD) per year,10000+ employees, Company - Public (TRI) ,Technology
+26,26,Starbucks," Dunkin' Brands, McDonald's", 1971,"Seattle, WA",Fast-Food & Quick-Service Restaurants,,, $10+ billion (USD) per year,10000+ employees, Company - Public (SBUX) ,Goods & Svcs
+27,27,Barclays,, 1690,"London, England (UK)",Banks & Credit Unions,,, $10+ billion (USD) per year,10000+ employees, Company - Public (BARC) ,Finance
+28,28,AT&T,, 1983,"Dallas, TX",Telecommunications Services,,, $10+ billion (USD) per year,10000+ employees, Company - Public (T) ,Technology
+29,29,BNY Mellon,, 1784,"New York, NY",Investment Banking & Asset Management,,, $10+ billion (USD) per year,10000+ employees, Company - Public (BK) ,Finance
+30,30,The Home Depot,, 1978,"Atlanta, GA",nan,,, $10+ billion (USD) per year,10000+ employees, Company - Public (HD) ,Goods & Svcs
+31,31,Mount Sinai Health System, Unknown, 2013,"New York, NY",Health Care Services & Hospitals,,, $1 to $2 billion (USD) per year,10000+ employees, Hospital,Health
+32,32,CVS Health,, 1963,"Woonsocket, RI",Health Care Services & Hospitals,,, $10+ billion (USD) per year,10000+ employees, Company - Public (CVS) ,Health
+33,33,Deutsche Bank,, 1870,Frankfurt am Main (Germany),Investment Banking & Asset Management,,, $10+ billion (USD) per year,10000+ employees, Company - Public (DB) ,Finance
+34,34,Apple," Google, Microsoft, Samsung Electronics", 1976,"Cupertino, CA",Computer Hardware & Software,,, $10+ billion (USD) per year,10000+ employees, Company - Public (AAPL) ,Technology
+35,35,Accenture,, 1989,"Dublin, Co. Dublin (Ireland)",Consulting,,, $10+ billion (USD) per year,10000+ employees, Company - Public (ACN) ,Goods & Svcs
+36,36,NBCUniversal, Unknown, 1906,"New York, NY",TV Broadcast & Cable Networks,,, $10+ billion (USD) per year,10000+ employees, Company - Public (CMCSA) ,Entertainment
+37,37,Northwell Health,, 1997,"Lake Success, NY",Health Care Services & Hospitals,,, $10+ billion (USD) per year,10000+ employees, Nonprofit Organization,Health
+38,38,NewYork-Presbyterian Hospital,, 1998,"New York, NY",Health Care Services & Hospitals,,, Unknown / Non-Applicable,10000+ employees, Hospital,Health
+39,39,Memorial Sloan Kettering,, 1884,"New York, NY",Health Care Services & Hospitals,,, $2 to $5 billion (USD) per year,10000+ employees, Nonprofit Organization,Health
+40,40,UPS,, 1907,"Atlanta, GA",Logistics & Supply Chain,,, $10+ billion (USD) per year,10000+ employees, Company - Public (UPS) ,Finance
+41,41,Best Buy,, 1966,"Richfield, MN",Consumer Electronics & Appliances Stores,,, $10+ billion (USD) per year,10000+ employees, Company - Public (BBY) ,Goods & Svcs
+42,42,Prudential," AIG, MetLife, Fidelity Investments", 1875,"Newark, NJ",Investment Banking & Asset Management,,, $10+ billion (USD) per year,10000+ employees, Company - Public (PRU) ,Finance
+43,43,NYU Langone Health,, 1841,"New York, NY",Health Care Services & Hospitals,,, $5 to $10 billion (USD) per year,10000+ employees, Hospital,Health
+44,44,ADP,, 1949,"Roseland, NJ",Consulting,,, $10+ billion (USD) per year,10000+ employees, Company - Public (ADP) ,Goods & Svcs
+45,45,Bloomingdale's,, 1861,"New York, NY","Department, Clothing, & Shoe Stores",,Macy's, $1 to $2 billion (USD) per year,10000+ employees, Subsidiary or Business Segment,Fashion/Retail
+46,46,Pfizer,, 1849,"New York, NY",Biotech & Pharmaceuticals,,, $10+ billion (USD) per year,10000+ employees, Company - Public (PFE) ,Health
+47,47,New York Life,, 1845,"New York, NY",Insurance Agencies & Brokerages,,, $10+ billion (USD) per year,10000+ employees, Company - Private,Goods & Svcs
+48,48,Merck, Unknown, 1891,"Kenilworth, NJ",Health Care Services & Hospitals,,, $10+ billion (USD) per year,10000+ employees, Company - Public (MRK) ,Health
+49,49,Chase,, 1799,"New York, NY",Banks & Credit Unions,,J.P. Morgan, $10+ billion (USD) per year,10000+ employees, Subsidiary or Business Segment,Finance
+50,50,Ralph Lauren,, 1967,"New York, NY",Other Retail Stores,,, $5 to $10 billion (USD) per year,10000+ employees, Company - Public (RL) ,Fashion/Retail
+51,51,TD,, 1855,"Mount Laurel, NJ",Banks & Credit Unions,,, $10+ billion (USD) per year,10000+ employees, Company - Public ( TD) ,Finance
+52,52,"Toys ""R"" Us"," Walmart, Target, Amazon", 1948,"Wayne, NJ",Toy & Hobby Stores,,, $5 to $10 billion (USD) per year,10000+ employees, Company - Private,Goods & Svcs
+53,53,McDonald's,, 1955,"Chicago, IL",Fast-Food & Quick-Service Restaurants,,, $10+ billion (USD) per year,10000+ employees, Company - Public (MCD) ,Goods & Svcs
+54,54,MetLife,, 1868,"New York, NY",Insurance Agencies & Brokerages,,, $10+ billion (USD) per year,10000+ employees, Company - Public (MET) ,Goods & Svcs
+55,55,Staples, Unknown, 1986,"Framingham, MA",Office Supply Stores,,, $10+ billion (USD) per year,10000+ employees, Company - Private,Goods & Svcs
+56,56,Shoprite Supermarkets, Unknown, Unknown,"Bristol, CT",Vehicle Dealers,,, $10 to $25 million (USD) per year,201 to 500 employees, Other Organization,Goods & Svcs
+57,57,PepsiCo," Unilever, Mondelēz International, Amazon", 1965,"Purchase, NY",Food & Beverage Manufacturing,,, $10+ billion (USD) per year,10000+ employees, Company - Public (PEP) ,Goods & Svcs
+58,58,L'Oréal," Google, Amazon, Facebook", 1909,Clichy (France),Consumer Products Manufacturing,,, $10+ billion (USD) per year,10000+ employees, Company - Public (LRLCY) ,Goods & Svcs
+59,59,Amazon,, 1994,"Seattle, WA",Internet,,, $10+ billion (USD) per year,10000+ employees, Company - Public (AMZN) ,Technology
+60,60,HSBC Holdings," J.P. Morgan, Wells Fargo", 1865,"London, England (UK)",Banks & Credit Unions,,, $10+ billion (USD) per year,10000+ employees, Company - Public (HSBC) ,Finance
+61,61,Google," Microsoft, Apple, Facebook", 1998,"Mountain View, CA",Internet,,, $10+ billion (USD) per year,10000+ employees, Company - Public (GOOG) ,Technology
+62,62,Cablevision Systems, Unknown, 1973,"Bethpage, NY","Cable, Internet & Telephone Providers",,Altice, $5 to $10 billion (USD) per year,10000+ employees, Company - Public (CVC) ,Technology
+63,63,Walmart,, 1962,"Bentonville, AR","Department, Clothing, & Shoe Stores",,, $10+ billion (USD) per year,10000+ employees, Company - Public (WMT) ,Fashion/Retail
+64,64,Time Inc., Unknown, 1922,"Des Moines, IA",News Outlet,,Meredith Corporation, Unknown / Non-Applicable,5001 to 10000 employees, Company - Public,Entertainment
+65,65,Estée Lauder Companies, Unknown, 1946,"New York, NY",Consumer Products Manufacturing,,, $10+ billion (USD) per year,10000+ employees, Company - Public (EL) ,Goods & Svcs
+66,66,United Nations, Unknown, 1945,"New York, NY",Federal Agencies,,, Unknown / Non-Applicable per year,10000+ employees, Government,Govnt/Utilities
+67,67,Wells Fargo,, 1852,"San Francisco, CA",Banks & Credit Unions,,, $10+ billion (USD) per year,10000+ employees, Company - Public (WFC) ,Finance
+68,68,Whole Foods Market,, 1980,"Austin, TX",Grocery Stores & Supermarkets,,Amazon, $10+ billion (USD) per year,10000+ employees, Company - Public (WFM) ,Goods & Svcs
+69,69,Walgreens," CVS Health, Target, Walmart", 1901,"Deerfield, IL",Drug & Health Stores,,, $10+ billion (USD) per year,10000+ employees, Company - Public (WBA) ,Health
+70,70,Victoria's Secret," Macy's, Zara, H&M", 1977,"Reynoldsburg, OH","Department, Clothing, & Shoe Stores",,L Brands, $5 to $10 billion (USD) per year,1001 to 5000 employees, Subsidiary or Business Segment,Fashion/Retail
+71,71,Gap,, 1969,"San Francisco, CA","Department, Clothing, & Shoe Stores",,Gap Inc., $10+ billion (USD) per year,10000+ employees, Company - Public,Fashion/Retail
+72,72,Bed Bath & Beyond, Unknown, 1971,"Union, NJ",Home Furniture & Housewares Stores,,, $10+ billion (USD) per year,10000+ employees, Company - Public (BBBY) ,Goods & Svcs
+73,73,CA Technologies, Unknown, Unknown,"San Jose, CA",Computer Hardware & Software,,Broadcom, Unknown / Non-Applicable,10000+ employees, Unknown,Technology
+74,74,Merrill Lynch,, 1820,"New York, NY",Brokerage Services,,, $10+ billion (USD) per year,10000+ employees, Subsidiary or Business Segment,Goods & Svcs
+75,75,Sears," Macy's, The Home Depot, Best Buy", 1886,"Hoffman Estates, IL",Unknown,,, $10+ billion (USD) per year,10000+ employees, Company - Private,Goods & Svcs
+76,76,Novartis,, 1996,Basel (Switzerland),Biotech & Pharmaceuticals,,, $10+ billion (USD) per year,10000+ employees, Company - Public (NVS) ,Health
+77,77,Condé Nast," Hearst, Time Inc., Complex", 1909,"London, England (UK)",Publishing,,, Unknown / Non-Applicable,501 to 1000 employees, Company - Public,Goods & Svcs
+78,78,BlackRock,, 1988,"New York, NY",Investment Banking & Asset Management,,, $10+ billion (USD) per year,10000+ employees, Company - Public (BLK) ,Finance
+79,79,Metropolitan Transportation Authority, Unknown, Unknown,"New York, NY",Transportation Management,,, Unknown / Non-Applicable per year,5001 to 10000 employees, Government,Goods & Svcs
+80,80,Abercrombie & Fitch," American Eagle Outfitters, Ralph Lauren, J. Crew", 1892,"New Albany, OH",Unknown,,, $2 to $5 billion (USD) per year,10000+ employees, Company - Public (ANF) ,Goods & Svcs
+81,81,T-Mobile,, 2001,"Bellevue, WA",Telecommunications Services,,, $10+ billion (USD) per year,10000+ employees, Company - Public (TMUS) ,Technology
+82,82,Uniqlo," Zara, Topshop, H&M", Unknown,"Yamaguchi, Yamaguchi (Japan)","Department, Clothing, & Shoe Stores",,, $10+ billion (USD) per year,10000+ employees, Company - Private,Fashion/Retail
+83,83,Con Edison," National Grid USA, New York State Electric & Gas", 1997,"New York, NY",Utilities,,, $10+ billion (USD) per year,10000+ employees, Company - Public (ED) ,Govnt/Utilities
+84,84,McKinsey & Company,, 1926,"New York, NY",Consulting,,, Unknown / Non-Applicable,10000+ employees, Company - Private,Goods & Svcs
+85,85,Century 21 Stores,, 1961,"New York, NY","Department, Clothing, & Shoe Stores",,, $100 to $500 million (USD) per year,1001 to 5000 employees, Company - Private,Fashion/Retail
+86,86,Ogilvy,, 1948,"New York, NY",Advertising & Marketing,,, $500 million to $1 billion (USD) per year,1001 to 5000 employees, Subsidiary or Business Segment,Finance
+87,87,Infosys,, 1981,Bengaluru (India),IT Services,,, $10+ billion (USD) per year,10000+ employees, Company - Public (INFY) ,Technology
+88,88,Stony Brook University, Unknown, 1957,"Stony Brook, NY",Colleges & Universities,,, $500 million to $1 billion (USD) per year,10000+ employees, College / University,Education
+89,89,Lowe's," The Home Depot, Amazon, Walmart", 1946,"Mooresville, NC",Home Centers & Hardware Stores,,, $10+ billion (USD) per year,10000+ employees, Company - Public (LOW) ,Goods & Svcs
+90,90,Barnes & Noble, Unknown, Unknown,"New York, NY",Other Retail Stores,,, $5 to $10 billion (USD) per year,10000+ employees, Company - Public (BKS) ,Fashion/Retail
+91,91,Forever 21," H&M, Inditex, Urban Outfitters", 1984,"Los Angeles, CA",Unknown,,, $5 to $10 billion (USD) per year,10000+ employees, Company - Private,Goods & Svcs
+92,92,Capital One,, 1994,"Mc Lean, VA",Banks & Credit Unions,,, $10+ billion (USD) per year,10000+ employees, Company - Public (COF) ,Finance
+93,93,US Postal Service, Unknown, 1971,"Washington, DC",Logistics & Supply Chain,,, $10+ billion (USD) per year,10000+ employees, Government,Finance
+94,94,Tata Consultancy Services," Accenture, IBM, Infosys", 1968,Mumbai (India),Computer Hardware & Software,,, $10+ billion (USD) per year,10000+ employees, Company - Public (TCSN) ,Technology
+95,95,Yelp,, 2004,"San Francisco, CA",Internet,,, $500 million to $1 billion (USD) per year,5001 to 10000 employees, Company - Public (YELP) ,Technology
+96,96,BNP Paribas, Unknown, 2000,Paris (France),Banks & Credit Unions,,, $10+ billion (USD) per year,10000+ employees, Company - Public (BNP) ,Finance
+97,97,Success Academy Charter Schools,, 2006,"New York, NY",K-12 Education,,, $100 to $500 million (USD) per year,1001 to 5000 employees, School / School District,Education
+98,98,JetBlue," Delta Air Lines, Southwest Airlines, United Airlines", 1999,"Long Island City, NY",Transportation Management,,, $5 to $10 billion (USD) per year,10000+ employees, Company - Public (JBLU) ,Goods & Svcs
+99,99,Nielsen, Unknown, 1923,"New York, NY",Enterprise Software & Network Solutions,,, $5 to $10 billion (USD) per year,10000+ employees, Company - Public (NLSN) ,Technology
+100,100,Rite Aid, Unknown, 1968,"Camp Hill, PA",Drug & Health Stores,,, $10+ billion (USD) per year,10000+ employees, Company - Public (RAD) ,Health
+101,101,Saks Fifth Avenue," Nordstrom, Winners, Holt Renfrew", Unknown,"New York, NY","Department, Clothing, & Shoe Stores",,, $1 to $5 million (USD) per year,10000+ employees, Company - Public,Fashion/Retail
+102,102,CUNY (City University of New York), Unknown, 1847,"New York, NY",Colleges & Universities,,, $2 to $5 billion (USD) per year,10000+ employees, College / University,Education
+103,103,J. Crew, Unknown, 1983,"New York, NY","Department, Clothing, & Shoe Stores",,, $2 to $5 billion (USD) per year,10000+ employees, Company - Private,Fashion/Retail
+104,104,Unilever,, 1872,"Englewood Cliffs, NJ",Consumer Products Manufacturing,,, $10+ billion (USD) per year,10000+ employees, Company - Public (ULVR:LN) ,Goods & Svcs
+105,105,Avon," Johnson & Johnson, Unilever, Procter & Gamble", 1886,"London, England (UK)",Consumer Products Manufacturing,,, $10+ billion (USD) per year,10000+ employees, Company - Public (AVP) ,Goods & Svcs
+106,106,Mastercard,, 1966,"Purchase, NY",Financial Transaction Processing,,, $5 to $10 billion (USD) per year,10000+ employees, Company - Public (MA) ,Finance
+107,107,Tiffany & Co., Unknown, 1837,"New York, NY",Other Retail Stores,,, $2 to $5 billion (USD) per year,10000+ employees, Company - Public (TIF) ,Fashion/Retail
+108,108,Town Sports International Holdings," LA Fitness, 24 Hour Fitness, Equinox Fitness", 1973,"New York, NY","Health, Beauty, & Fitness",,, $100 to $500 million (USD) per year,5001 to 10000 employees, Company - Public (CLUB) ,Health
+109,109,Robert Half,, 1948,"Menlo Park, CA",Staffing & Outsourcing,,, $5 to $10 billion (USD) per year,10000+ employees, Company - Public (RHI) ,Goods & Svcs
+110,110,YMCA, Unknown, 1982,"Chicago, IL",Social Assistance,,, $100 to $500 million (USD) per year,10000+ employees, Nonprofit Organization,Govnt/Utilities
+111,111,Enterprise,, 1957,"Saint Louis, MO",Car Rental,,, $10+ billion (USD) per year,10000+ employees, Company - Private,Goods & Svcs
+112,112,EmblemHealth,, 1937,"New York, NY",Insurance Carriers,,, $5 to $10 billion (USD) per year,1001 to 5000 employees, Nonprofit Organization,Finance
+113,113,Stop & Shop," Hannaford Bros., Big Y Foods, Shaw's", 1989,"Quincy, MA",Grocery Stores & Supermarkets,,, $10+ billion (USD) per year,10000+ employees, Subsidiary or Business Segment,Goods & Svcs
+114,114,Broadridge,, 2007,"Lake Success, NY",Financial Transaction Processing,,, $5 to $10 billion (USD) per year,10000+ employees, Company - Public (BR) ,Finance
+115,115,Moody's, Unknown, 1900,"New York, NY",Financial Analytics & Research,,, $2 to $5 billion (USD) per year,10000+ employees, Company - Public (MCO) ,Finance
+116,116,Equinox Fitness," Life Time, Virgin Active, ClubCorp", 1991,"New York, NY",Sports & Recreation,,, $1 to $2 billion (USD) per year,10000+ employees, Company - Private,Entertainment
+117,117,H&M,, 1947,"Stockholm, Stockholm (Sweden)","Department, Clothing, & Shoe Stores",,, $10+ billion (USD) per year,10000+ employees, Company - Public ( HMB) ,Fashion/Retail
+118,118,Edelman,, 1952,"New York, NY",Advertising & Marketing,,, $500 million to $1 billion (USD) per year,5001 to 10000 employees, Company - Private,Finance
+119,119,Hertz, Unknown, 1918,"Estero, FL",Car Rental,,, $5 to $10 billion (USD) per year,10000+ employees, Company - Public (HTZ) ,Goods & Svcs
+120,120,PVH Corp.,, 1881,"New York, NY","Department, Clothing, & Shoe Stores",,, $5 to $10 billion (USD) per year,10000+ employees, Company - Public (PVH) ,Fashion/Retail
+121,121,Pearson,, 1844,"London, England (UK)",Education Training Services,,, $5 to $10 billion (USD) per year,10000+ employees, Company - Public (PSO) ,Education
+122,122,Ann Taylor, Unknown, 1954,"New York, NY","Department, Clothing, & Shoe Stores",,, $2 to $5 billion (USD) per year,10000+ employees, Company - Private,Fashion/Retail
+123,123,Lord & Taylor," Nordstrom, Macy's, Winners", 2006,"New York, NY","Department, Clothing, & Shoe Stores",,, $1 to $2 billion (USD) per year,5001 to 10000 employees, Company - Public,Fashion/Retail
+124,124,American Eagle Outfitters, Unknown, 1977,"Pittsburgh, PA","Department, Clothing, & Shoe Stores",,, $2 to $5 billion (USD) per year,10000+ employees, Company - Public (AEO) ,Fashion/Retail
+125,125,Montefiore Medical,, 1884,"Bronx, NY",Health Care Services & Hospitals,,, $2 to $5 billion (USD) per year,10000+ employees, Nonprofit Organization,Health
+126,126,Nordstrom,, 1901,"Seattle, WA","Department, Clothing, & Shoe Stores",,, $10+ billion (USD) per year,10000+ employees, Company - Public (JWN) ,Fashion/Retail
+127,127,Scholastic, Unknown, 1920,"New York, NY",Publishing,,, $1 to $2 billion (USD) per year,5001 to 10000 employees, Company - Public (SCHL) ,Goods & Svcs
+128,128,Duane Reade, Unknown, 2004,"New York, NY",Drug & Health Stores,,Walgreens, $500 million to $1 billion (USD) per year,5001 to 10000 employees, Subsidiary or Business Segment,Health
+129,129,Colgate-Palmolive,, 1806,"New York, NY",Consumer Products Manufacturing,,, $10+ billion (USD) per year,10000+ employees, Company - Public (CL) ,Goods & Svcs
+130,130,Wiley, Unknown, 1807,"Hoboken, NJ",Publishing,,, $1 to $2 billion (USD) per year,5001 to 10000 employees, Company - Public (JW-A) ,Goods & Svcs
+131,131,Hearst, Unknown, 1887,"New York, NY",Motion Picture Production & Distribution,,, $2 to $5 billion (USD) per year,10000+ employees, Company - Private,Entertainment
+132,132,S&P Global Ratings,, 1860,"New York, NY",Financial Analytics & Research,,S&P Global, $100 to $500 million (USD) per year,1001 to 5000 employees, Subsidiary or Business Segment,Finance
+133,133,Weill Cornell Medical College, Unknown, 1898,"New York, NY",Colleges & Universities,,, Unknown / Non-Applicable,10000+ employees, College / University,Education
+134,134,Kohl's,, 1962,"Menomonee Falls, WI","Department, Clothing, & Shoe Stores",,, $10+ billion (USD) per year,10000+ employees, Company - Public (KSS) ,Fashion/Retail
+135,135,Coach,, 1941,"New York, NY",Other Retail Stores,,, $2 to $5 billion (USD) per year,10000+ employees, Company - Public (TPR) ,Fashion/Retail
+136,136,Société Générale," BNP Paribas, Natixis, Calyon Securities USA", 1864,Paris (France),Investment Banking & Asset Management,,, $10+ billion (USD) per year,10000+ employees, Company - Public (GLE) ,Finance
+137,137,Trader Joe's,, 1967,"Monrovia, CA",Grocery Stores & Supermarkets,,, $10+ billion (USD) per year,10000+ employees, Company - Private,Goods & Svcs
+138,138,HBO, Unknown, 1972,"New York, NY",TV Broadcast & Cable Networks,,, $5 to $10 billion (USD) per year,1001 to 5000 employees, Subsidiary or Business Segment,Entertainment
+139,139,Sephora,, 1969,"San Francisco, CA",Beauty & Personal Accessories Stores,,LVMH, $2 to $5 billion (USD) per year,10000+ employees, Company - Private,Goods & Svcs
+140,140,NYC Health + Hospitals, Unknown, Unknown,"New York, NY",Health Care Services & Hospitals,,, Unknown / Non-Applicable,5001 to 10000 employees, Company - Public,Health
+141,141,Sprint, AT&T, Unknown,"Overland Park, KS",Telecommunications Services,,, $2 to $5 billion (USD) per year,10000+ employees, Company - Public (S) ,Technology
+142,142,Mondo," Robert Half, Insight Global", 2000,"New York, NY",Staffing & Outsourcing,,Addison Group, $50 to $100 million (USD) per year,201 to 500 employees, Company - Private,Goods & Svcs
+143,143,Old Navy,, 1994,"San Francisco, CA","Department, Clothing, & Shoe Stores",,Gap Inc., $100 to $500 million (USD) per year,10000+ employees, Subsidiary or Business Segment,Fashion/Retail
+144,144,TransPerfect, Unknown, 1992,"New York, NY",Consulting,,, $100 to $500 million (USD) per year,1001 to 5000 employees, Company - Private,Goods & Svcs
+145,145,Chipotle,, 1993,"Denver, CO",Casual Restaurants,,, $2 to $5 billion (USD) per year,10000+ employees, Company - Public (CMG) ,Goods & Svcs
+146,146,AllianceBernstein,, 1967,"New York, NY",Investment Banking & Asset Management,,, $2 to $5 billion (USD) per year,1001 to 5000 employees, Company - Public,Finance
+147,147,Honeywell,, 1885,"Charlotte, NC",Computer Hardware & Software,,, $10+ billion (USD) per year,10000+ employees, Company - Public (HON) ,Technology
+148,148,New York Times, Unknown, 1896,"New York, NY",News Outlet,,, $1 to $2 billion (USD) per year,1001 to 5000 employees, Company - Public (NYT) ,Entertainment
+149,149,Kmart, Unknown, 1899,"Hoffman Estates, IL",General Merchandise & Superstores,,Sears, $5 to $10 billion (USD) per year,10000+ employees, Subsidiary or Business Segment,Goods & Svcs
+150,150,Uber,, 2009,"San Francisco, CA",Computer Hardware & Software,,, Unknown / Non-Applicable,10000+ employees, Company - Public (UBER) ,Technology
+151,151,National Debt Relief,, 2009,"New York, NY",Lending,,, Unknown / Non-Applicable,1001 to 5000 employees, Company - Private,Finance
+152,152,Northwestern Mutual,, 1857,"Milwaukee, WI",Brokerage Services,,, $10+ billion (USD) per year,5001 to 10000 employees, Company - Private,Goods & Svcs
+153,153,AXA Advisors, Unknown, 1859,"New York, NY",Investment Banking & Asset Management,,AXA, $100 to $500 million (USD) per year,1001 to 5000 employees, Subsidiary or Business Segment,Finance
+154,154,Bristol-Myers Squibb,, 1858,"New York, NY",Biotech & Pharmaceuticals,,, $10+ billion (USD) per year,10000+ employees, Company - Public (BMY) ,Health
+155,155,Healthfirst (New York),, 1993,"New York, NY",Insurance Carriers,,, Unknown / Non-Applicable,1001 to 5000 employees, Nonprofit Organization,Finance
+156,156,Dunkin' Donuts, Unknown, 1950,"Canton, MA",Fast-Food & Quick-Service Restaurants,,, Unknown / Non-Applicable per year,5001 to 10000 employees, Company - Private,Goods & Svcs
+157,157,Digitas," 360i, AKQA, R/GA", 1980,"Boston, MA",Advertising & Marketing,,Publicis, Unknown / Non-Applicable,5001 to 10000 employees, Subsidiary or Business Segment,Finance
+158,158,Wipro,, 1945,Bengaluru (India),IT Services,,, $5 to $10 billion (USD) per year,10000+ employees, Company - Public (WIT) ,Technology
+159,159,Banana Republic,, 1983,"San Francisco, CA","Department, Clothing, & Shoe Stores",,Gap Inc., $500 million to $1 billion (USD) per year,5001 to 10000 employees, Subsidiary or Business Segment,Fashion/Retail
+160,160,Urban Outfitters, Unknown, 1970,"Philadelphia, PA","Department, Clothing, & Shoe Stores",,, $2 to $5 billion (USD) per year,10000+ employees, Company - Public (URBN) ,Fashion/Retail
+161,161,CBS, Unknown, 2000,"New York, NY",Motion Picture Production & Distribution,,, $2 to $5 billion (USD) per year,5001 to 10000 employees, Subsidiary or Business Segment,Entertainment
+162,162,DISH,, 1980,"Englewood, CO","Cable, Internet & Telephone Providers",,, $10+ billion (USD) per year,10000+ employees, Company - Public (DISH) ,Technology
+163,163,The Children's Place, Unknown, 1989,"Secaucus, NJ","Department, Clothing, & Shoe Stores",,, $1 to $2 billion (USD) per year,10000+ employees, Company - Public (PLCE) ,Fashion/Retail
+164,164,GEICO,, 1936,"Washington, DC",Insurance Carriers,,, $10+ billion (USD) per year,10000+ employees, Subsidiary or Business Segment,Finance
+165,165,UnitedHealth Group,, 1977,"Minnetonka, MN",Health Care Services & Hospitals,,, $10+ billion (USD) per year,10000+ employees, Company - Public (UNH) ,Health
+166,166,Horizon Blue Cross Blue Shield of New Jersey,, 1932,"Newark, NJ",Insurance Carriers,,, $10+ billion (USD) per year,5001 to 10000 employees, Nonprofit Organization,Finance
+167,167,Visiting Nurse Service of New York,, 1893,"New York, NY",Health Care Services & Hospitals,,, $500 million to $1 billion (USD) per year,10000+ employees, Nonprofit Organization,Health
+168,168,Sanofi,, 1973,Paris (France),Biotech & Pharmaceuticals,,, $10+ billion (USD) per year,10000+ employees, Company - Public (SNY) ,Health
+169,169,Altice, Unknown, Unknown,Amsterdam (Netherlands),Telecommunications Services,,, Unknown / Non-Applicable per year,10000+ employees, Company - Public (ATC) ,Technology
+170,170,Madison Square Garden, Unknown, Unknown,"New York, NY",Sports & Recreation,,, $1 to $2 billion (USD) per year,5001 to 10000 employees, Company - Public (MSG) ,Entertainment
+171,171,Insight Global," TEKsystems, Apex Systems, Kelly Services", 2001,"Atlanta, GA",Staffing & Outsourcing,,, $1 to $2 billion (USD) per year,1001 to 5000 employees, Company - Private,Goods & Svcs
+172,172,New York City Department of Parks and Recreation, Unknown, 1934,"New York, NY",Municipal Governments,,, Unknown / Non-Applicable,5001 to 10000 employees, Government,Govnt/Utilities
+173,173,BD,, 1897,"Franklin Lakes, NJ",Health Care Products Manufacturing,,, $10+ billion (USD) per year,10000+ employees, Company - Public (BDX) ,Health
+174,174,Sony Music Entertainment, Unknown, 1986,"New York, NY",Music Production & Distribution,,, $2 to $5 billion (USD) per year,5001 to 10000 employees, Subsidiary or Business Segment,Entertainment
+175,175,Canon U.S.A., Unknown, Unknown,"Melville, NY",Computer Hardware & Software,,, $500 million to $1 billion (USD) per year,10000+ employees, Subsidiary or Business Segment,Technology
+176,176,Delta Air Lines,, 1928,"Atlanta, GA",Airlines,,, $10+ billion (USD) per year,10000+ employees, Company - Public (DAL) ,Goods & Svcs
+177,177,Power Home Remodeling,, 1992,"Chester, PA",Construction,,, $500 million to $1 billion (USD) per year,1001 to 5000 employees, Company - Private,Goods & Svcs
+178,178,Oracle,, 1977,"Redwood City, CA",Enterprise Software & Network Solutions,,, $10+ billion (USD) per year,10000+ employees, Company - Public (ORCL) ,Technology
+179,179,J. C. Penney," Macy's, Kohl's, Dillard's", 1902,"Plano, TX","Department, Clothing, & Shoe Stores",,, $10+ billion (USD) per year,10000+ employees, Company - Public (JCP) ,Fashion/Retail
+180,180,Chubb,, 1792,Zürich (Switzerland),Insurance Carriers,,, $10+ billion (USD) per year,10000+ employees, Company - Public (CB) ,Finance
+181,181,Microsoft," Google, Amazon, Apple", 1975,"Redmond, WA",Computer Hardware & Software,,, $10+ billion (USD) per year,10000+ employees, Company - Public (MSFT) ,Technology
+182,182,Regeneron Pharmaceuticals,, 1988,"Tarrytown, NY",Biotech & Pharmaceuticals,,, $5 to $10 billion (USD) per year,5001 to 10000 employees, Company - Public (REGN) ,Health
+183,183,R/GA, Unknown, 1977,"New York, NY",Advertising & Marketing,,, $100 to $500 million (USD) per year,1001 to 5000 employees, Company - Public,Finance
+184,184,Audible,, 1995,"Newark, NJ",Motion Picture Production & Distribution,,Amazon, Unknown / Non-Applicable,1001 to 5000 employees, Subsidiary or Business Segment,Entertainment
+185,185,AOL," Yahoo, Google, Facebook", 1985,"New York, NY",Publishing,,Verizon, $2 to $5 billion (USD) per year,5001 to 10000 employees, Company - Public,Goods & Svcs
+186,186,RBC," Barclays, Morgan Stanley, TD", 1869,"Toronto, ON (Canada)",Banks & Credit Unions,,, $10+ billion (USD) per year,10000+ employees, Company - Public (RY) ,Finance
+187,187,Capri Holdings," Ralph Lauren, Coach, Burberry", 1981,"New York, NY",Other Retail Stores,,, $2 to $5 billion (USD) per year,5001 to 10000 employees, Company - Public (CPRI) ,Fashion/Retail
+188,188,Zocdoc, Unknown, 2007,"New York, NY",Internet,,, Unknown / Non-Applicable,501 to 1000 employees, Company - Private,Technology
+189,189,Panera Bread, Unknown, 1981,"Saint Louis, MO",Casual Restaurants,,, $2 to $5 billion (USD) per year,10000+ employees, Company - Public (PNRA) ,Goods & Svcs
+190,190,AMC Entertainment, Unknown, 1920,"Leawood, KS",Movie Theaters,,, $2 to $5 billion (USD) per year,10000+ employees, Company - Public (AMC) ,Entertainment
+191,191,Grey Group," Interpublic Group, Omnicom, Publicis", 1917,"New York, NY",Advertising & Marketing,,WPP, $500 million to $1 billion (USD) per year,5001 to 10000 employees, Subsidiary or Business Segment,Finance
+192,192,Capgemini,, 1967,Issy-les-Moulineaux (France),Enterprise Software & Network Solutions,,, $10+ billion (USD) per year,10000+ employees, Company - Public,Technology
+193,193,TIAA,, 1918,"New York, NY",Investment Banking & Asset Management,,, $100 to $500 million (USD) per year,5001 to 10000 employees, Company - Private,Finance
+194,194,Panasonic,, 1918,"Newark, NJ",Electrical & Electronic Manufacturing,,, $10+ billion (USD) per year,10000+ employees, Subsidiary or Business Segment,Goods & Svcs
+195,195,GameStop, Unknown, 2000,"Grapevine, TX",Toy & Hobby Stores,,, $5 to $10 billion (USD) per year,10000+ employees, Company - Public (GME) ,Goods & Svcs
+196,196,Capco,, 1998,"London, England (UK)",Consulting,,, $500 million to $1 billion (USD) per year,5001 to 10000 employees, Company - Public,Goods & Svcs
+197,197,Samsung Electronics America,, 1938,"Ridgefield Park, Bergen, NJ",Computer Hardware & Software,,Samsung Electronics, $10+ billion (USD) per year,1001 to 5000 employees, Subsidiary or Business Segment,Technology
+198,198,Dow Jones,, 1882,"Monmouth Junction, NJ",News Outlet,,, $500 million to $1 billion (USD) per year,5001 to 10000 employees, Subsidiary or Business Segment,Entertainment
+199,199,Modell's Sporting Goods," DICK'S Sporting Goods, Foot Locker, Finish Line", 1889,"New York, NY",Sporting Goods Stores,,, $500 million to $1 billion (USD) per year,5001 to 10000 employees, Company - Private,Goods & Svcs
+200,200,Stevens Institute of Technology, Unknown, 1870,"Hoboken, NJ",Colleges & Universities,,, $100 to $500 million (USD) per year,501 to 1000 employees, College / University,Education
+201,201,Nomura Holdings, Unknown, 1925,Tokyo (Japan),Investment Banking & Asset Management,,, $10+ billion (USD) per year,10000+ employees, Company - Public (NMR) ,Finance
+202,202,Benjamin Moore, Unknown, 1883,"Montvale, NJ",Consumer Products Manufacturing,,Berkshire Hathaway, $1 to $2 billion (USD) per year,1001 to 5000 employees, Company - Private,Goods & Svcs
+203,203,PSEG,, 1903,"Newark, NJ",Utilities,,, $5 to $10 billion (USD) per year,10000+ employees, Company - Public (PEG) ,Govnt/Utilities
+204,204,Major League Baseball (MLB),, 1869,"New York, NY",Sports & Recreation,,, Unknown / Non-Applicable,201 to 500 employees, Company - Private,Entertainment
+205,205,Hollister Co., Unknown, Unknown,"New Albany, OH",Consumer Products Manufacturing,,, $25 to $50 million (USD) per year,5001 to 10000 employees, Subsidiary or Business Segment,Goods & Svcs
+206,206,Stryker,, 1941,"Portage, MI",Health Care Products Manufacturing,,, $10+ billion (USD) per year,10000+ employees, Company - Public (SYK) ,Health
+207,207,Zara, Unknown, 1974,Arteixo (Spain),"Department, Clothing, & Shoe Stores",,, $1 to $2 billion (USD) per year,10000+ employees, Subsidiary or Business Segment,Fashion/Retail
+208,208,Quest Diagnostics,, 1967,"Secaucus, NJ",Health Care Services & Hospitals,,, $5 to $10 billion (USD) per year,10000+ employees, Company - Public (DGX) ,Health
+209,209,WeWork,, 2010,"New York, NY",Membership Organizations,,, Unknown / Non-Applicable,10000+ employees, Company - Private,Goods & Svcs
+210,210,City of New York, Unknown, 1625,"New York, NY",Municipal Governments,,, Unknown / Non-Applicable per year,10000+ employees, Government,Govnt/Utilities
+211,211,Xerox," IBM, Ricoh", 1906,"Norwalk, CT",IT Services,,, $10+ billion (USD) per year,10000+ employees, Company - Public (XRX) ,Technology
+212,212,SHI International,, 1989,"Somerset, NJ",Computer Hardware & Software,,, $5 to $10 billion (USD) per year,1001 to 5000 employees, Company - Private,Technology
+213,213,Penguin Random House, Unknown, 2013,"Baltimore, MD",Publishing,,, $1 to $2 billion (USD) per year,1001 to 5000 employees, Company - Private,Goods & Svcs
+214,214,BJ's Wholesale Club,, 1984,"Westborough, MA",Grocery Stores & Supermarkets,,, $10+ billion (USD) per year,10000+ employees, Company - Public (BJ) ,Goods & Svcs
+215,215,CIT,, 1908,"New York, NY",Banks & Credit Unions,,, $2 to $5 billion (USD) per year,1001 to 5000 employees, Company - Public (CIT) ,Finance
+216,216,Ross Stores,, 1957,"Dublin, CA","Department, Clothing, & Shoe Stores",,, $10+ billion (USD) per year,10000+ employees, Company - Public (ROST) ,Fashion/Retail
+217,217,Crothall Healthcare,, 2001,"Chesterbrook, PA",Catering & Food Service Contractors,,Compass Group USA, $2 to $5 billion (USD) per year,10000+ employees, Subsidiary or Business Segment,Goods & Svcs
+218,218,First Data, Unknown, 1971,"Atlanta, GA",Financial Transaction Processing,,Fiserv, $10+ billion (USD) per year,10000+ employees, Company - Public (FDC) ,Finance
+219,219,iCIMS," ADP, Oracle, Jobvite", 1999,"Holmdel, NJ",Computer Hardware & Software,,, $100 to $500 million (USD) per year,501 to 1000 employees, Company - Private,Technology
+220,220,S&P Global,, 1888,"New York, NY",Financial Analytics & Research,,, $5 to $10 billion (USD) per year,10000+ employees, Company - Public (SPGI) ,Finance
+221,221,Mercer,, 1945,"New York, NY",Consulting,,Marsh & McLennan Companies, $2 to $5 billion (USD) per year,10000+ employees, Subsidiary or Business Segment,Goods & Svcs
+222,222,Strategic Financial Solutions,, 2007,"New York, NY",Financial Analytics & Research,,, Unknown / Non-Applicable,501 to 1000 employees, Company - Private,Finance
+223,223,Burlington Stores,, 1972,"Burlington, NJ","Department, Clothing, & Shoe Stores",,, $5 to $10 billion (USD) per year,10000+ employees, Company - Public (BURL) ,Fashion/Retail
+224,224,United Airlines,, 1926,"Chicago, IL",Airlines,,, $10+ billion (USD) per year,10000+ employees, Company - Public (UAL) ,Goods & Svcs
+225,225,S&P Global Market Intelligence,, 2004,"New York, NY",Investment Banking & Asset Management,,S&P Global, Unknown / Non-Applicable,10000+ employees, Subsidiary or Business Segment,Finance
+226,226,Compass, Unknown, 2012,"New York, NY",Enterprise Software & Network Solutions,,, $500 million to $1 billion (USD) per year,1001 to 5000 employees, Company - Private,Technology
+227,227,Fordham University, Unknown, 1841,"Bronx, NY",Colleges & Universities,,, $500 million to $1 billion (USD) per year,1001 to 5000 employees, College / University,Education
+228,228,New York & Company, Unknown, 2002,"New York, NY","Department, Clothing, & Shoe Stores",,, $500 million to $1 billion (USD) per year,5001 to 10000 employees, Company - Public (NWY) ,Fashion/Retail
+229,229,Frank Recruitment Group,, 2006,"Newcastle upon Tyne, England (UK)",Staffing & Outsourcing,,, Unknown / Non-Applicable,1001 to 5000 employees, Company - Private,Goods & Svcs
+230,230,Pace University, Unknown, 1948,"New York, NY",Colleges & Universities,,, $100 to $500 million (USD) per year,1001 to 5000 employees, College / University,Education
+231,231,AECOM," Bechtel, ABB, SNC-Lavalin", 1990,"Los Angeles, CA",Architectural & Engineering Services,,, $10+ billion (USD) per year,10000+ employees, Company - Public (ACM) ,Goods & Svcs
+232,232,Spectrum,, 2016,"Stamford, CT","Cable, Internet & Telephone Providers",,, Unknown / Non-Applicable,Unknown, Subsidiary or Business Segment,Technology
+233,233,FactSet,, 1978,"Norwalk, CT",Financial Analytics & Research,,, $1 to $2 billion (USD) per year,5001 to 10000 employees, Company - Public (FDS) ,Finance
+234,234,Dun & Bradstreet,, 1841,Dubai (United Arab Emirates),IT Services,,, $1 to $2 billion (USD) per year,51 to 200 employees, Company - Private,Technology
+235,235,Costco Wholesale," Sam's Club, BJ's Wholesale Club", 1976,"Issaquah, WA",General Merchandise & Superstores,,, $10+ billion (USD) per year,10000+ employees, Company - Public (COST) ,Goods & Svcs
+236,236,Avaya," Cisco Systems, Mitel Networks, RingCentral", 2000,"Santa Clara, CA",Telecommunications Services,,, $2 to $5 billion (USD) per year,5001 to 10000 employees, Company - Public (AVYA) ,Technology
+237,237,RB, Unknown, 1823,"Slough, Berkshire, South East England, England (UK)",Consumer Products Manufacturing,,, $10+ billion (USD) per year,10000+ employees, Company - Public (RB) ,Goods & Svcs
+238,238,Guardian Life,, 1860,"New York, NY",Insurance Carriers,,, $5 to $10 billion (USD) per year,5001 to 10000 employees, Company - Private,Finance
+239,239,SiriusXM, Unknown, 1990,"New York, NY",Radio,,, $2 to $5 billion (USD) per year,1001 to 5000 employees, Company - Public (SIRI) ,Entertainment
+240,240,Coty," L'Oréal, Estée Lauder Companies, Elizabeth Arden", 1904,"London, England (UK)",Consumer Products Manufacturing,,, $10+ billion (USD) per year,10000+ employees, Company - Public (COTY) ,Goods & Svcs
+241,241,New School, Unknown, 1919,"New York, NY",Colleges & Universities,,, $100 to $500 million (USD) per year,1001 to 5000 employees, College / University,Education
+242,242,Jefferies, Unknown, 1962,"New York, NY",Investment Banking & Asset Management,,, $2 to $5 billion (USD) per year,1001 to 5000 employees, Company - Public (LN3) ,Finance
+243,243,YAI - Seeing beyond disability, Unknown, 1957,"New York, NY",Social Assistance,,, $100 to $500 million (USD) per year,5001 to 10000 employees, Nonprofit Organization,Govnt/Utilities
+244,244,Mavis Discount Tire,, 1972,"Millwood, NY",Automotive Parts & Accessories Stores,,, Unknown / Non-Applicable,1001 to 5000 employees, Company - Private,Goods & Svcs
+245,245,NIKE," adidas, Under Armour, lululemon", 1972,"Beaverton, OR",Consumer Products Manufacturing,,, $10+ billion (USD) per year,10000+ employees, Company - Public (NKE) ,Goods & Svcs
+246,246,BASF,, 1865,"Florham Park, NJ",Chemical Manufacturing,,, $5 to $10 billion (USD) per year,10000+ employees, Company - Public,Goods & Svcs
+247,247,Medidata Solutions,, 1999,"New York, NY",Enterprise Software & Network Solutions,,, $500 million to $1 billion (USD) per year,1001 to 5000 employees, Company - Public (MDSO) ,Technology
+248,248,New York Police Department, Unknown, 1845,"New York, NY",Municipal Governments,,, $5 to $10 billion (USD) per year,10000+ employees, Government,Govnt/Utilities
+249,249,Federal Reserve Bank (NY), Unknown, 1914,"New York, NY",Financial Analytics & Research,,, $10+ billion (USD) per year,1001 to 5000 employees, Company - Private,Finance
+250,250,Port Authority of New York and New Jersey, Unknown, 1921,"New York, NY",Transportation Management,,, $2 to $5 billion (USD) per year,5001 to 10000 employees, Government,Goods & Svcs
+251,251,WebMD Health, Unknown, 2005,"New York, NY",Internet,,, $500 million to $1 billion (USD) per year,1001 to 5000 employees, Company - Public (WBMD) ,Technology
+252,252,RadioShack," Best Buy, Walmart", 1921,"Fort Worth, TX",Consumer Electronics & Appliances Stores,,, Unknown / Non-Applicable,5001 to 10000 employees, Company - Private,Goods & Svcs
+253,253,FreshDirect," Peapod, Instacart, Jet", 1999,"Long Island City, NY",Logistics & Supply Chain,,, $100 to $500 million (USD) per year,1001 to 5000 employees, Company - Private,Finance
+254,254,Express," Gap, The Limited, Guess?", 1980,"Columbus, OH","Department, Clothing, & Shoe Stores",,, $2 to $5 billion (USD) per year,10000+ employees, Company - Public (EXPR) ,Fashion/Retail
+255,255,Publicis," Interpublic Group, Omnicom, WPP", 1926,Paris (France),Advertising & Marketing,,, $5 to $10 billion (USD) per year,10000+ employees, Company - Public (PUB) ,Finance
+256,256,American Apparel, Unknown, 1998,"Los Angeles, CA",Consumer Products Manufacturing,,, $500 million to $1 billion (USD) per year,1001 to 5000 employees, Company - Public (APP) ,Goods & Svcs
+257,257,Shutterstock, Unknown, 2003,"New York, NY",Internet,,, $500 million to $1 billion (USD) per year,1001 to 5000 employees, Company - Public (SSTK) ,Technology
+258,258,New Jersey Institute of Technology, Unknown, 1881,"Newark, NJ",Colleges & Universities,,, $100 to $500 million (USD) per year,1001 to 5000 employees, College / University,Education
+259,259,Aéropostale, Unknown, 1987,"Lyndhurst, NJ","Department, Clothing, & Shoe Stores",,, $1 to $2 billion (USD) per year,10000+ employees, Company - Private,Fashion/Retail
+260,260,Foot Locker, Unknown, 1974,"New York, NY","Department, Clothing, & Shoe Stores",,, $5 to $10 billion (USD) per year,10000+ employees, Company - Public (FL) ,Fashion/Retail
+261,261,Handy,, 2012,"New York, NY",Internet,,, Unknown / Non-Applicable,51 to 200 employees, Company - Private,Technology
+262,262,Bayer,, 1863,Leverkusen (Germany),Biotech & Pharmaceuticals,,, $10+ billion (USD) per year,10000+ employees, Company - Public (BAYN) ,Health
+263,263,Anthropologie, Unknown, 1992,"Philadelphia, PA","Department, Clothing, & Shoe Stores",,Urban Outfitters, $1 to $2 billion (USD) per year,5001 to 10000 employees, Subsidiary or Business Segment,Fashion/Retail
+264,264,AppNexus, Unknown, 2007,"New York, NY",Computer Hardware & Software,,Xandr, Unknown / Non-Applicable,1001 to 5000 employees, Company - Private,Technology
+265,265,TJ Maxx,,,"Framingham, MA","Department, Clothing, & Shoe Stores",,TJX Companies, $10+ billion (USD) per year,10000+ employees, Subsidiary or Business Segment,Fashion/Retail
+266,266,Salesforce,, 1999,"San Francisco, CA",Computer Hardware & Software,,, $10+ billion (USD) per year,10000+ employees, Company - Public (CRM) ,Technology
+267,267,Marriott International," Hyatt, Hilton, InterContinental Hotels Group", 1927,"Bethesda, MD","Hotels, Motels, & Resorts",,, $10+ billion (USD) per year,10000+ employees, Company - Public (MAR) ,Goods & Svcs
+268,268,Santander,, 1856,"Boston, MA",Banks & Credit Unions,,, $500 million to $1 billion (USD) per year,5001 to 10000 employees, Company - Private,Finance
+269,269,DTCC,, 1973,"New York, NY",Brokerage Services,,, $1 to $2 billion (USD) per year,1001 to 5000 employees, Company - Private,Goods & Svcs
+270,270,Allstate," Progressive Insurance, State Farm, Farmers Insurance Group", 1931,"Northbrook, IL",Unknown,,, $10+ billion (USD) per year,10000+ employees, Company - Public (ALL) ,Goods & Svcs
+271,271,Massage Envy,, 2003,"Scottsdale, AZ","Health, Beauty, & Fitness",,, Unknown / Non-Applicable,10000+ employees, Company - Private,Health
+272,272,FDM Group,, 1991,"London, England (UK)",IT Services,,, $100 to $500 million (USD) per year,1001 to 5000 employees, Company - Public (FDM ) ,Technology
+273,273,Columbia University Medical Center, Unknown, Unknown,"New York, NY",Health Care Services & Hospitals,,, $500 million to $1 billion (USD) per year,5001 to 10000 employees, Hospital,Health
+274,274,Christie's,, 1766,"London, England (UK)",Auctions & Galleries,,, $5 to $10 billion (USD) per year,1001 to 5000 employees, Company - Private,Entertainment
+275,275,Horizon Media, Unknown, 1989,"New York, NY",Advertising & Marketing,,, Unknown / Non-Applicable,1001 to 5000 employees, Company - Private,Finance
+276,276,Applebee's,, 1980,"Glendale, CA",Casual Restaurants,,Dine Brands Global, $2 to $5 billion (USD) per year,10000+ employees, Subsidiary or Business Segment,Goods & Svcs
+277,277,Express Scripts,, 1986,"Saint Louis, MO",Health Care Services & Hospitals,,Cigna, Unknown / Non-Applicable,10000+ employees, Company - Public (ESRX) ,Health
+278,278,PNC Financial Services Group,, 1845,"Pittsburgh, PA",Banks & Credit Unions,,, $10+ billion (USD) per year,10000+ employees, Company - Public (PNC) ,Finance
+279,279,DSW, Unknown, 1969,"Columbus, OH","Department, Clothing, & Shoe Stores",,, $2 to $5 billion (USD) per year,10000+ employees, Company - Public (DSW) ,Fashion/Retail
+280,280,Avis Budget Group,, 1954,"Parsippany, NJ",Commercial Equipment Rental,,, $5 to $10 billion (USD) per year,10000+ employees, Company - Public (CAR) ,Goods & Svcs
+281,281,McGraw-Hill," Pearson, Houghton Mifflin Harcourt, Cengage", 1888,"New York, NY",Education Training Services,,, $1 to $2 billion (USD) per year,1001 to 5000 employees, Company - Private,Education
+282,282,Vonage, Unknown, 2000,"Holmdel, NJ",Enterprise Software & Network Solutions,,, $1 to $2 billion (USD) per year,1001 to 5000 employees, Company - Public (VG) ,Technology
+283,283,Comodo, Unknown, 1998,"Clifton, NJ",Accounting,,, $25 to $50 million (USD) per year,51 to 200 employees, Company - Private,Finance
+284,284,Atlantic Health System,, 1996,"Morristown, NJ",Health Care Services & Hospitals,,, $2 to $5 billion (USD) per year,10000+ employees, Nonprofit Organization,Health
+285,285,Yext,, 2006,"New York, NY",Internet,,, $100 to $500 million (USD) per year,1001 to 5000 employees, Company - Public (YEXT) ,Technology
+286,286,Mindshare," OMD, Carat, Starcom Worldwide", 1997,"London, England (UK)",Motion Picture Production & Distribution,,GroupM, Unknown / Non-Applicable,5001 to 10000 employees, Subsidiary or Business Segment,Entertainment
+287,287,OTG Management, Unknown, 1996,"New York, NY",Upscale Restaurants,,, Unknown / Non-Applicable,1001 to 5000 employees, Company - Private,Goods & Svcs
+288,288,CITYMD,, 2010,"New York, NY",Health Care Services & Hospitals,,, Unknown / Non-Applicable,1001 to 5000 employees, Company - Private,Health
+289,289,New York City Department of Health & Mental Hygiene, Unknown, Unknown,"New York, NY",Municipal Governments,,, Unknown / Non-Applicable per year,5001 to 10000 employees, Government,Govnt/Utilities
+290,290,Marshalls,, 1956,"Framingham, MA","Department, Clothing, & Shoe Stores",,TJX Companies, Unknown / Non-Applicable,10000+ employees, Subsidiary or Business Segment,Fashion/Retail
+291,291,Celgene, Unknown, 1986,"Summit, NJ",Biotech & Pharmaceuticals,,, $10+ billion (USD) per year,5001 to 10000 employees, Company - Public (CELG) ,Health
+292,292,AXA Equitable, Unknown, 1959,"New York, NY",Insurance Carriers,,, $500 million to $1 billion (USD) per year,1001 to 5000 employees, Company - Public (EQH) ,Finance
+293,293,US Army, Unknown, 1775,"Washington, DC",Unknown,,, Unknown / Non-Applicable per year,10000+ employees, Government,Goods & Svcs
+294,294,Genpact,, 1997,"New York, NY",IT Services,,, $2 to $5 billion (USD) per year,10000+ employees, Company - Public (G) ,Technology
+295,295,Commvault,, 1996,"Tinton Falls, NJ",Enterprise Software & Network Solutions,,, $500 million to $1 billion (USD) per year,1001 to 5000 employees, Company - Public (CVLT) ,Technology
+296,296,BBDO, Unknown, 1986,"New York, NY",Advertising & Marketing,,, $500 million to $1 billion (USD) per year,10000+ employees, Subsidiary or Business Segment,Finance
+297,297,MediaMath," Criteo, AppNexus, dataxu", 2007,"New York, NY",Advertising & Marketing,,, $100 to $500 million (USD) per year,501 to 1000 employees, Company - Private,Finance
+298,298,Bain & Company,, 1973,"Boston, MA",Consulting,,, $2 to $5 billion (USD) per year,5001 to 10000 employees, Company - Private,Goods & Svcs
+299,299,Achievement First,, 2005,"Brooklyn, NY",K-12 Education,,, $1 to $5 million (USD) per year,1001 to 5000 employees, School / School District,Education
+300,300,NYSE," London Stock Exchange Group, Deutsche Börse Group, Nasdaq", 1817,"New York, NY",Investment Banking & Asset Management,,Intercontinental Exchange, $25 to $50 million (USD) per year,1001 to 5000 employees, Subsidiary or Business Segment,Finance
+301,301,Amplify,, 2010,"Brooklyn, NY",K-12 Education,,, $100 to $500 million (USD) per year,201 to 500 employees, Company - Private,Education
+302,302,Dollar Tree, Unknown, Unknown,"Chesapeake, VA",Unknown,,, $10+ billion (USD) per year,10000+ employees, Company - Public (DLTR) ,Goods & Svcs
+303,303,XO Group," Zola Registry, WeddingWire", 1996,"New York, NY",Internet,,The Knot Worldwide, $100 to $500 million (USD) per year,501 to 1000 employees, Company - Public (XOXO) ,Technology
+304,304,A+E Networks," Discovery, Inc., Turner Broadcasting, AMC Networks", 1984,"New York, NY",TV Broadcast & Cable Networks,,, $2 to $5 billion (USD) per year,1001 to 5000 employees, Company - Private,Entertainment
+305,305,Ladders," Indeed, LinkedIn", 2003,"New York, NY",Internet,,, Unknown / Non-Applicable,51 to 200 employees, Company - Private,Technology
+306,306,Aramark,, 1959,"Philadelphia, PA",Building & Personnel Services,,, $10+ billion (USD) per year,10000+ employees, Company - Public (ARMK) ,Goods & Svcs
+307,307,Publicis Sapient,, 1990,"Boston, MA",Consulting,,, Unknown / Non-Applicable,10000+ employees, Company - Public,Goods & Svcs
+308,308,FedEx Ground,, 2000,"Coraopolis, PA",Logistics & Supply Chain,,, $10+ billion (USD) per year,10000+ employees, Subsidiary or Business Segment,Finance
+309,309,Williams Lea Tag, Unknown, 1820,"London, England (UK)",Advertising & Marketing,,, Unknown / Non-Applicable,10000+ employees, Company - Private,Finance
+310,310,Brown Brothers Harriman," Morgan Stanley, Goldman Sachs", 1818,"New York, NY",Investment Banking & Asset Management,,, $2 to $5 billion (USD) per year,1001 to 5000 employees, Company - Private,Finance
+311,311,GLG,, 1998,"New York, NY",Membership Organizations,,, Unknown / Non-Applicable,1001 to 5000 employees, Company - Private,Goods & Svcs
+312,312,Huge," R/GA, AKQA", 1999,"Brooklyn, NY",Internet,,, $100 to $500 million (USD) per year,1001 to 5000 employees, Subsidiary or Business Segment,Technology
+313,313,Protiviti,, 2002,"Menlo Park, CA",Consulting,,, $500 million to $1 billion (USD) per year,1001 to 5000 employees, Company - Public,Goods & Svcs
+314,314,Univision, Unknown, 1962,"New York, NY",News Outlet,,, $2 to $5 billion (USD) per year,1001 to 5000 employees, Company - Private,Entertainment
+315,315,Cisco Systems,, 1984,"San Jose, CA",Computer Hardware & Software,,, $10+ billion (USD) per year,10000+ employees, Company - Private,Technology
+316,316,FOX News, Unknown, 1994,"New York, NY",TV Broadcast & Cable Networks,,Fox Corporation, $100 to $500 million (USD) per year,Unknown, Subsidiary or Business Segment,Entertainment
+317,317,ALM,, 1843,"New York, NY",Publishing,,, $100 to $500 million (USD) per year,501 to 1000 employees, Company - Private,Goods & Svcs
+318,318,Research Foundation of CUNY, Unknown, 1963,"New York, NY",Colleges & Universities,,, $100 to $500 million (USD) per year,10000+ employees, Nonprofit Organization,Education
+319,319,Michaels," Toys ""R"" Us, Hobby Lobby, PetSmart", 1973,"Irving, TX",Toy & Hobby Stores,,, $2 to $5 billion (USD) per year,10000+ employees, Company - Public (MIK) ,Goods & Svcs
+320,320,Six Flags," Cedar Fair, SeaWorld Parks & Entertainment, Herschend Entertainment", 1961,"Grand Prairie, TX","Museums, Zoos & Amusement Parks",,, $1 to $2 billion (USD) per year,1001 to 5000 employees, Company - Public (SIX) ,Entertainment
+321,321,Tory Burch, Unknown, 2004,"New York, NY","Department, Clothing, & Shoe Stores",,, $1 to $2 billion (USD) per year,1001 to 5000 employees, Company - Private,Fashion/Retail
+322,322,The Nature's Bounty Co.,, 1971,"Ronkonkoma, NY",Consumer Products Manufacturing,,, $2 to $5 billion (USD) per year,1001 to 5000 employees, Company - Private,Goods & Svcs
+323,323,City College of New York, Unknown, 1847,"New York, NY",Colleges & Universities,,, $5 to $10 million (USD) per year,1 to 50 employees, College / University,Education
+324,324,Havas Worldwide,, 1999,"New York, NY",Advertising & Marketing,,Havas Group, Unknown / Non-Applicable,10000+ employees, Subsidiary or Business Segment,Finance
+325,325,Postmates,, 2011,"San Francisco, CA",Express Delivery Services,,, Unknown / Non-Applicable,1001 to 5000 employees, Company - Private,Goods & Svcs
+326,326,Macquarie Group,, 1969,Sydney (Australia),Investment Banking & Asset Management,,, $5 to $10 billion (USD) per year,10000+ employees, Company - Public (MQG) ,Finance
+327,327,McCann Worldgroup,, 1902,"New York, NY",Advertising & Marketing,,, $500 million to $1 billion (USD) per year,10000+ employees, Subsidiary or Business Segment,Finance
+328,328,Cantor Fitzgerald, Unknown, 1945,"New York, NY",Investment Banking & Asset Management,,, $1 to $2 billion (USD) per year,1001 to 5000 employees, Company - Private,Finance
+329,329,Wolters Kluwer," Thomson Reuters, Pearson, RELX", 1836,Alphen aan den Rijn (Netherlands),Consulting,,, $2 to $5 billion (USD) per year,10000+ employees, Company - Public (WKL) ,Goods & Svcs
+330,330,Cushman & Wakefield,, 1917,"Chicago, IL",Real Estate,,, Unknown / Non-Applicable,10000+ employees, Company - Public (CWK) ,Goods & Svcs
+331,331,St. John's University, Unknown, Unknown,"Jamaica, NY",Colleges & Universities,,, $100 to $500 million (USD) per year,1001 to 5000 employees, College / University,Education
+332,332,Party City," Walmart, Celebrate Express, Oriental Trading Company", 1986,"Rockaway, NJ",Other Retail Stores,,, $25 to $50 million (USD) per year,501 to 1000 employees, Company - Public (PRTY) ,Fashion/Retail
+333,333,Meredith Corporation," Hearst, Media General", 1902,"Des Moines, IA",Publishing,,, $2 to $5 billion (USD) per year,5001 to 10000 employees, Company - Public (MDP) ,Goods & Svcs
+334,334,Uncommon Schools,,,"New York, NY",K-12 Education,,, Unknown / Non-Applicable,1001 to 5000 employees, Nonprofit Organization,Education
+335,335,FedEx, Unknown, 1973,"Memphis, TN",Express Delivery Services,,, $10+ billion (USD) per year,10000+ employees, Company - Public (FDX) ,Goods & Svcs
+336,336,Mondelēz International,, 2012,"Deerfield, IL",Food & Beverage Manufacturing,,, $10+ billion (USD) per year,10000+ employees, Company - Public (MDLZ) ,Goods & Svcs
+337,337,Teach for America, Unknown, 1990,"New York, NY",Education Training Services,,, $100 to $500 million (USD) per year,1001 to 5000 employees, Nonprofit Organization,Education
+338,338,Henry Schein," Patterson Dental, McKesson", 1932,"Melville, NY",Wholesale,,, $5 to $10 billion (USD) per year,10000+ employees, Company - Public (HSIC) ,Goods & Svcs
+339,339,Metropolitan Museum of Art, Unknown, 1870,"New York, NY",Social Assistance,,, $100 to $500 million (USD) per year,1001 to 5000 employees, Nonprofit Organization,Govnt/Utilities
+340,340,5W Public Relations,, 2003,"New York, NY",Advertising & Marketing,,, Unknown / Non-Applicable,51 to 200 employees, Company - Private,Finance
+341,341,SCO Family of Services, Unknown, 1895,"Glen Cove, NY",Social Assistance,,, $100 to $500 million (USD) per year,1001 to 5000 employees, Nonprofit Organization,Govnt/Utilities
+342,342,Bath & Body Works, Unknown, 2002,"Reynoldsburg, OH",Beauty & Personal Accessories Stores,,L Brands, $2 to $5 billion (USD) per year,10000+ employees, Subsidiary or Business Segment,Goods & Svcs
+343,343,Willis Towers Watson,, 1828,"London, England (UK)",Consulting,,, $10+ billion (USD) per year,10000+ employees, Company - Public (WLTW) ,Goods & Svcs
+344,344,OMD, Unknown, 1994,"New York, NY",Advertising & Marketing,,Omnicom Media Group, $10+ billion (USD) per year,10000+ employees, Subsidiary or Business Segment,Finance
+345,345,Mizuho Financial Group,, 2002,Tokyo (Japan),Investment Banking & Asset Management,,, Unknown / Non-Applicable,10000+ employees, Company - Public (MFG) ,Finance
+346,346,Everyday Health Group,, 2002,"New York, NY",Publishing,,, $100 to $500 million (USD) per year,201 to 500 employees, Subsidiary or Business Segment,Goods & Svcs
+347,347,Albert Einstein College of Medicine, Unknown, Unknown,"Bronx, NY",Colleges & Universities,,, $100 to $500 million (USD) per year,1001 to 5000 employees, College / University,Education
+348,348,Facebook,, 2004,"Menlo Park, CA",Internet,,, $10+ billion (USD) per year,10000+ employees, Company - Public (FB) ,Technology
+349,349,CBRE,, 1906,"Los Angeles, CA",Real Estate,,, Unknown / Non-Applicable,10000+ employees, Company - Public (CBRE) ,Goods & Svcs
+350,350,Fitch Ratings,, 1913,"New York, NY",Financial Analytics & Research,,, $100 to $500 million (USD) per year,1001 to 5000 employees, Subsidiary or Business Segment,Finance
+351,351,Bethpage Federal Credit Union,, 1941,"Bethpage, NY",Banks & Credit Unions,,, Unknown / Non-Applicable,501 to 1000 employees, Nonprofit Organization,Finance
+352,352,The Coca-Cola Company,, 1886,"Atlanta, GA",Food & Beverage Manufacturing,,, $10+ billion (USD) per year,10000+ employees, Company - Public (KO) ,Goods & Svcs
+353,353,LinkedIn," XING AG, Monster Worldwide", 2003,"Mountain View, CA",Internet,,Microsoft, $2 to $5 billion (USD) per year,10000+ employees, Subsidiary or Business Segment,Technology
+354,354,Barneys," Bergdorf Goodman, Saks Fifth Avenue, Bloomingdale's", 1923,"New York, NY","Department, Clothing, & Shoe Stores",,, $100 to $500 million (USD) per year,1001 to 5000 employees, Company - Private,Fashion/Retail
+355,355,Oliver Wyman,, 1984,"New York, NY",Consulting,,Marsh & McLennan Companies, $10 to $25 million (USD) per year,1001 to 5000 employees, Subsidiary or Business Segment,Goods & Svcs
+356,356,Raymour & Flanigan, Unknown, 1947,"Liverpool, NY",Home Furniture & Housewares Stores,,, $2 to $5 billion (USD) per year,5001 to 10000 employees, Company - Private,Goods & Svcs
+357,357,Verisk Analytics,, 1971,"Jersey City, NJ",Research & Development,,, $2 to $5 billion (USD) per year,5001 to 10000 employees, Company - Public (VRSK) ,Goods & Svcs
+358,358,Conduent,, 2017,"Florham Park, NJ",IT Services,,, Unknown / Non-Applicable,10000+ employees, Company - Public (CNDT) ,Technology
+359,359,Ricoh USA,, 1936,"Exton, PA",IT Services,,, $10+ billion (USD) per year,10000+ employees, Company - Public,Technology
+360,360,inVentiv Health," Publicis, PPD, Covance", 1999,"Raleigh, NC",Health Care Services & Hospitals,Syneos Health ,, $1 to $2 billion (USD) per year,10000+ employees, Subsidiary or Business Segment,Health
+361,361,IPsoft, IBM, 1998,"New York, NY",IT Services,,, $500 million to $1 billion (USD) per year,1001 to 5000 employees, Company - Private,Technology
+362,362,IQVIA,, 2017,"Durham, NC",Health Care Services & Hospitals,,, $2 to $5 billion (USD) per year,10000+ employees, Company - Public (IQV) ,Health
+363,363,Adecco, Unknown, 1996,Zürich (Switzerland),Staffing & Outsourcing,,Adecco Group, $10+ billion (USD) per year,10000+ employees, Company - Public (ADEN) ,Goods & Svcs
+364,364,360i,, 1998,"New York, NY",Advertising & Marketing,,Dentsu Aegis Network, $100 to $500 million (USD) per year,501 to 1000 employees, Company - Public,Finance
+365,365,T3 Trading Group, Unknown, 2007,"New York, NY",Brokerage Services,,, Unknown / Non-Applicable,501 to 1000 employees, Company - Private,Goods & Svcs
+366,366,Walt Disney Company," News Corp, WarnerMedia, NBCUniversal", 1923,"Burbank, CA",Motion Picture Production & Distribution,,, $10+ billion (USD) per year,10000+ employees, Company - Public (DIS) ,Entertainment
+367,367,Marsh & McLennan Companies,, 1871,"New York, NY",Insurance Agencies & Brokerages,,, $10+ billion (USD) per year,10000+ employees, Company - Public (MMC) ,Goods & Svcs
+368,368,Information Builders,, 1975,"New York, NY",Computer Hardware & Software,,, Unknown / Non-Applicable,1001 to 5000 employees, Company - Private,Technology
+369,369,IHS Markit,, 2016,"London, England (UK)",Consulting,,, Unknown / Non-Applicable,10000+ employees, Company - Public (INFO) ,Goods & Svcs
+370,370,PageGroup," Hays, Robert Half, Robert Walters", 1976,"London, England (UK)",Staffing & Outsourcing,,, $1 to $2 billion (USD) per year,5001 to 10000 employees, Company - Public,Goods & Svcs
+371,371,E*TRADE Financial, Unknown, 1982,"New York, NY",Brokerage Services,,, $2 to $5 billion (USD) per year,1001 to 5000 employees, Company - Public (ETFC) ,Goods & Svcs
+372,372,Oxford University Press,,,"Oxford, England (UK)",Publishing,,Oxford University, $50 to $100 million (USD) per year,5001 to 10000 employees, Nonprofit Organization,Goods & Svcs
+373,373,Club Monaco,, 1985,"New York, NY","Department, Clothing, & Shoe Stores",,Ralph Lauren, Unknown / Non-Applicable,201 to 500 employees, Subsidiary or Business Segment,Fashion/Retail
+374,374,Green Key Resources,, 2004,"New York, NY",Staffing & Outsourcing,,, Unknown / Non-Applicable,201 to 500 employees, Company - Private,Goods & Svcs
+375,375,Harlem Children's Zone, Unknown, Unknown,"New York, NY",Social Assistance,,, $100 to $500 million (USD) per year,1001 to 5000 employees, Nonprofit Organization,Govnt/Utilities
+376,376,Global Brands Group,, 2014,Hong Kong (Hong Kong),Consumer Products Manufacturing,,, $2 to $5 billion (USD) per year,5001 to 10000 employees, Company - Public,Goods & Svcs
+377,377,The Forum Group, Unknown, 1974,"New York, NY",Staffing & Outsourcing,,, Unknown / Non-Applicable,51 to 200 employees, Company - Private,Goods & Svcs
+378,378,College Board,, 1900,"New York, NY",Education Training Services,,, $500 million to $1 billion (USD) per year,1001 to 5000 employees, Nonprofit Organization,Education
+379,379,Forrest Solutions," Beacon Hill Staffing Group, 24 Seven Talent, The Execu|Search Group", 1976,"New York, NY",Staffing & Outsourcing,,, Unknown / Non-Applicable,1001 to 5000 employees, Company - Private,Goods & Svcs
+380,380,Valley National Bancorp, Unknown, Unknown,"Wayne, NJ",Banks & Credit Unions,,, $500 million to $1 billion (USD) per year,1001 to 5000 employees, Company - Public (VLY) ,Finance
+381,381,Realogy," RE/MAX, HomeServices, Keller Williams", 2005,"Madison, NJ",Real Estate,,, $5 to $10 billion (USD) per year,10000+ employees, Company - Public (RLGY) ,Goods & Svcs
+382,382,Tommy Hilfiger,, 1985,Amsterdam (Netherlands),"Department, Clothing, & Shoe Stores",,PVH Corp., $5 to $10 billion (USD) per year,1001 to 5000 employees, Subsidiary or Business Segment,Fashion/Retail
+383,383,Kaplan Test Prep, Unknown, 1938,"New York, NY",Education Training Services,,Graham Holdings, $100 to $500 million (USD) per year,501 to 1000 employees, Company - Public,Education
+384,384,The Jones Group, Unknown, 1975,"New York, NY",Consumer Products Manufacturing,,Nine West, $2 to $5 billion (USD) per year,10000+ employees, Subsidiary or Business Segment,Goods & Svcs
+385,385,JLL,,,"Chicago, IL",Real Estate,,, $5 to $10 billion (USD) per year,10000+ employees, Company - Public (JLL) ,Goods & Svcs
+386,386,Turner Construction," Bechtel, Skanska USA", 1902,"New York, NY",Construction,,, $10+ billion (USD) per year,5001 to 10000 employees, Subsidiary or Business Segment,Goods & Svcs
+387,387,FTI Consulting,, 1982,"Washington, DC",Consulting,,, $2 to $5 billion (USD) per year,1001 to 5000 employees, Company - Public (FCN) ,Goods & Svcs
+388,388,National Grid USA,, 2000,"Waltham, MA",Utilities,,, $5 to $10 billion (USD) per year,10000+ employees, Subsidiary or Business Segment,Govnt/Utilities
+389,389,MongoDB,, 2007,"New York, NY",Enterprise Software & Network Solutions,,, Unknown / Non-Applicable,1001 to 5000 employees, Company - Public (MDB) ,Technology
+390,390,New York Public Library, Unknown, 1895,"New York, NY",Social Assistance,,, $100 to $500 million (USD) per year,1001 to 5000 employees, Nonprofit Organization,Govnt/Utilities
+391,391,Petco," PetSmart, Walmart, Costco Wholesale", 1965,"San Diego, CA",Pet & Pet Supplies Stores,,, $2 to $5 billion (USD) per year,10000+ employees, Company - Private,Goods & Svcs
+392,392,Roche,, 1896,"Pleasanton, CA",Biotech & Pharmaceuticals,,, $10+ billion (USD) per year,5001 to 10000 employees, Company - Public (RHHBY) ,Health
+393,393,Grant Thornton,, 1924,"Chicago, IL",Accounting,,, $1 to $2 billion (USD) per year,5001 to 10000 employees, Company - Private,Finance
+394,394,iHeartMedia," CUMULUS MEDIA, Entercom, Cox Media Group", 1972,"San Antonio, TX",Radio,,, $5 to $10 billion (USD) per year,10000+ employees, Company - Public (IHRT) ,Entertainment
+395,395,J. Walter Thompson Worldwide, Unknown, 1864,"New York, NY",Advertising & Marketing,,, $1 to $2 billion (USD) per year,5001 to 10000 employees, Subsidiary or Business Segment,Finance
+396,396,Bank Of Tokyo-Mitsubishi UFJ, Unknown, 1919,Tokyo (Japan),Investment Banking & Asset Management,,, $10+ billion (USD) per year,10000+ employees, Company - Public (MUFG) ,Finance
+397,397,Ipreo," Thomson Reuters, Bloomberg L.P., Dealogic", 2006,"New York, NY",Investment Banking & Asset Management,,IHS Markit, $100 to $500 million (USD) per year,1001 to 5000 employees, Company - Private,Finance
+398,398,Siemens," GE, ABB, Philips", 1843,"Munich, Bayern (Germany)",Electrical & Electronic Manufacturing,,, $10+ billion (USD) per year,10000+ employees, Company - Public (SIE) ,Goods & Svcs
+399,399,Spotify,, 2006,"Stockholm, Stockholm (Sweden)",Internet,,, Unknown / Non-Applicable,1001 to 5000 employees, Company - Public (SPOT) ,Technology
+400,400,Fidelis Care," Excellus BlueCross BlueShield, Capital District Physicians' Health Plan, Healthfirst (New York)", 1993,"Rego Park, NY",Insurance Agencies & Brokerages,,Centene, $2 to $5 billion (USD) per year,1001 to 5000 employees, Nonprofit Organization,Goods & Svcs
+401,401,The NPD Group,, 1966,"Port Washington, NY",Research & Development,,, $100 to $500 million (USD) per year,1001 to 5000 employees, Company - Private,Goods & Svcs
+402,402,VaynerMedia, Likeable Media, Unknown,"New York, NY",Consulting,,, $10 to $25 million (USD) per year,51 to 200 employees, Company - Private,Goods & Svcs
+403,403,Rockefeller University,, 1901,"New York, NY",Colleges & Universities,,, Unknown / Non-Applicable,1001 to 5000 employees, College / University,Education
+404,404,HCL Technologies,, 1991,"New York, NY",Computer Hardware & Software,,, $5 to $10 billion (USD) per year,10000+ employees, Company - Public (HCLT) ,Technology
+405,405,Wendy's,, 1969,"Dublin, OH",Fast-Food & Quick-Service Restaurants,,, $1 to $2 billion (USD) per year,10000+ employees, Company - Public (WEN) ,Goods & Svcs
+406,406,Allied Universal,, 2016,"Santa Ana, CA",Security Services,,, $5 to $10 billion (USD) per year,10000+ employees, Company - Private,Goods & Svcs
+407,407,Kumon Group, Unknown, 1958,Yodogawa (Japan),Education Training Services,,, $100 to $500 million (USD) per year,1001 to 5000 employees, Company - Private,Education
+408,408,FINRA,, 2007,"Washington, DC",Brokerage Services,,, $500 million to $1 billion (USD) per year,1001 to 5000 employees, Nonprofit Organization,Goods & Svcs
+409,409,FLIK Hospitality Group, Unknown, Unknown,"Rye Brook, NY",Casual Restaurants,,Compass Group USA, $100 to $500 million (USD) per year,1001 to 5000 employees, Unknown,Goods & Svcs
+410,410,Blue Apron," Plated, Instacart, Amazon", 2012,"New York, NY",Food & Beverage Stores,,, $100 to $500 million (USD) per year,1001 to 5000 employees, Company - Public (APRN) ,Goods & Svcs
+411,411,CDM," GSW Marketing & Advertising, FCB Health Network", Unknown,"New York, NY",Advertising & Marketing,,, $25 to $50 million (USD) per year,201 to 500 employees, Subsidiary or Business Segment,Finance
+412,412,AlphaSights,, 2008,"London, England (UK)",Consulting,,, $100 to $500 million (USD) per year,501 to 1000 employees, Company - Private,Goods & Svcs
+413,413,Neuberger Berman," Fidelity Investments, BlackRock, Putnam Investments", 1939,"New York, NY",Investment Banking & Asset Management,,, $500 million to $1 billion (USD) per year,1001 to 5000 employees, Company - Private,Finance
+414,414,Rent The Runway,, 2009,"New York, NY",Consumer Product Rental,,, $100 to $500 million (USD) per year,1001 to 5000 employees, Company - Private,Goods & Svcs
+415,415,Brookhaven National Laboratory, Unknown, 1947,"Upton, NY",Federal Agencies,,, $50 to $100 million (USD) per year,1001 to 5000 employees, Other Organization,Govnt/Utilities
+416,416,Ericsson-Worldwide,, 1876,"Stockholm, Stockholm (Sweden)",Telecommunications Services,,, $10+ billion (USD) per year,10000+ employees, Company - Public (ERIC) ,Technology
+417,417,State Farm," Berkshire Hathaway, Progressive Insurance, Allstate", 1922,"Bloomington, IL",Insurance Carriers,,, $10+ billion (USD) per year,10000+ employees, Company - Private,Finance
+418,418,PetSmart,, 1986,"Phoenix, AZ",Pet & Pet Supplies Stores,,, $5 to $10 billion (USD) per year,10000+ employees, Company - Private,Goods & Svcs
+419,419,H&R Block,, 1955,"Kansas City, MO",Other Retail Stores,,, $2 to $5 billion (USD) per year,10000+ employees, Company - Public (HRB) ,Fashion/Retail
+420,420,Fragomen,, 1951,"New York, NY",Legal,,, $100 to $500 million (USD) per year,1001 to 5000 employees, Company - Private,Goods & Svcs
+421,421,WW, Unknown, 1961,"New York, NY","Health, Beauty, & Fitness",,, $1 to $2 billion (USD) per year,10000+ employees, Company - Public (WTW) ,Health
+422,422,Rue Gilt Groupe,,,"Boston, MA","Department, Clothing, & Shoe Stores",,, Unknown / Non-Applicable,501 to 1000 employees, Company - Private,Fashion/Retail
+423,423,Douglas Elliman Real Estate, Unknown, Unknown,"New York, NY",Real Estate,,, Less than $1 million (USD) per year,1 to 50 employees, Company - Private,Goods & Svcs
+424,424,7-Eleven," Hess Corporation, QuikTrip, Couche-Tard", 1927,"Dallas, TX",Other Retail Stores,,, $5 to $10 billion (USD) per year,10000+ employees, Subsidiary or Business Segment,Fashion/Retail
+425,425,LexisNexis Legal & Professional,, 1818,"New York, NY",Consulting,,RELX, $2 to $5 billion (USD) per year,5001 to 10000 employees, Company - Public,Goods & Svcs
+426,426,RSM,, 1964,"Chicago, IL",Accounting,,, $2 to $5 billion (USD) per year,10000+ employees, Private Practice / Firm,Finance
+427,427,Vice Media, Unknown, 1994,"Brooklyn, NY",News Outlet,,, $100 to $500 million (USD) per year,1001 to 5000 employees, Company - Private,Entertainment
+428,428,New York Community Bancorp, Unknown, 1859,"Westbury, NY",Banks & Credit Unions,,, $1 to $2 billion (USD) per year,1001 to 5000 employees, Company - Public (NYCB) ,Finance
+429,429,Long Island University," Adelphi, Hofstra University, Nassau Community College", 1928,"Greenvale, NY",Colleges & Universities,,, $100 to $500 million (USD) per year,1001 to 5000 employees, College / University,Education
+430,430,Thomas,, 1898,"New York, NY",Advertising & Marketing,,, Unknown / Non-Applicable,201 to 500 employees, Company - Private,Finance
+431,431,Makerbot, Unknown, 2009,"Brooklyn, NY",Consumer Products Manufacturing,,, $50 to $100 million (USD) per year,51 to 200 employees, Subsidiary or Business Segment,Goods & Svcs
+432,432,Fidelity Investments,, 1946,"Boston, MA",Investment Banking & Asset Management,,, $10+ billion (USD) per year,10000+ employees, Company - Private,Finance
+433,433,European Wax Center,, 2004,"Plano, TX","Health, Beauty, & Fitness",,, $100 to $500 million (USD) per year,5001 to 10000 employees, Franchise,Health
+434,434,National Income Life, Unknown, 2001,"Rochester, NY",Insurance Agencies & Brokerages,,American Income Life, $5 to $10 million (USD) per year,51 to 200 employees, Company - Public,Goods & Svcs
+435,435,Bio-Reference Labs," Quest Diagnostics, LabCorp", 1981,"Elmwood Park, NJ",Health Care Services & Hospitals,,, $500 million to $1 billion (USD) per year,5001 to 10000 employees, Subsidiary or Business Segment,Health
+436,436,Vector Marketing," Wüsthof, Zwilling J.A. Henckels", 1981,"Olean, NY",Advertising & Marketing,,, $100 to $500 million (USD) per year,201 to 500 employees, Subsidiary or Business Segment,Finance
+437,437,MAC Cosmetics, Sephora, 1984,"New York, NY",Consumer Products Manufacturing,,Estée Lauder Companies, Unknown / Non-Applicable,1001 to 5000 employees, Subsidiary or Business Segment,Goods & Svcs
+438,438,TD Ameritrade,, 1975,"Omaha, NE",Brokerage Services,,, $2 to $5 billion (USD) per year,10000+ employees, Company - Public (AMTD) ,Goods & Svcs
+439,439,Nasdaq," ICE, CME Group, Cboe Global Markets", 1971,"New York, NY",Stock Exchanges,,, $2 to $5 billion (USD) per year,1001 to 5000 employees, Company - Public (NDAQ) ,Finance
+440,440,Mercedes-Benz USA," BMW of North America, Audi of America, Volvo Car USA", 1926,"Atlanta, GA",Transportation Equipment Manufacturing,,Daimler, $50 to $100 million (USD) per year,1001 to 5000 employees, Subsidiary or Business Segment,Goods & Svcs
+441,441,MEC," Starcom Worldwide, OMD, Carat", 2002,"London, England (UK)",Advertising & Marketing,Wavemaker,, Unknown / Non-Applicable,5001 to 10000 employees, Company - Public,Finance
+442,442,Oscar Health,, 2012,"New York, NY",Insurance Agencies & Brokerages,,, $2 to $5 billion (USD) per year,1001 to 5000 employees, Company - Private,Goods & Svcs
+443,443,WarnerMedia," Walt Disney Company, 21st Century Fox, NBCUniversal", 2003,"New York, NY",TV Broadcast & Cable Networks,,AT&T, $10+ billion (USD) per year,10000+ employees, Subsidiary or Business Segment,Entertainment
+444,444,Hospital for Special Surgery, Unknown, 1863,"New York, NY",Health Care Services & Hospitals,,, Unknown / Non-Applicable,1001 to 5000 employees, Nonprofit Organization,Health
+445,445,New York Institute of Technology, Unknown, 1910,"Old Westbury, NY",Colleges & Universities,,, $100 to $500 million (USD) per year,501 to 1000 employees, College / University,Education
+446,446,GroupM," Aegis Media, Google, Omnicom Media Group", 2003,"New York, NY",Publishing,,WPP, Unknown / Non-Applicable,10000+ employees, Subsidiary or Business Segment,Goods & Svcs
+447,447,Carat,, 1968,"London, England (UK)",Advertising & Marketing,,Dentsu Aegis Network, $10 to $25 million (USD) per year,5001 to 10000 employees, Subsidiary or Business Segment,Finance
+448,448,Interbrand," Prophet Brand Strategy, SYPartners, Landor", 1974,"New York, NY",Consulting,,Omnicom, $50 to $100 million (USD) per year,501 to 1000 employees, Company - Public,Goods & Svcs
+449,449,OnDeck,, 2007,"New York, NY",Lending,,, Unknown / Non-Applicable,201 to 500 employees, Company - Public (ONDK) ,Finance
+450,450,Crestron Electronics," Lutron, Extron Electronics, AMX", 1971,"Rockleigh, NJ",Electrical & Electronic Manufacturing,,, $100 to $500 million (USD) per year,1001 to 5000 employees, Company - Private,Goods & Svcs
+451,451,Argus Information & Advisory Services,, 1997,"White Plains, NY",Consulting,,Verisk Analytics, $100 to $500 million (USD) per year,201 to 500 employees, Subsidiary or Business Segment,Goods & Svcs
+452,452,Weber Shandwick,, 1921,"New York, NY",Advertising & Marketing,,, $500 million to $1 billion (USD) per year,1001 to 5000 employees, Subsidiary or Business Segment,Finance
+453,453,Burger King, Unknown, 1954,"Miami, FL",Fast-Food & Quick-Service Restaurants,,, $500 million to $1 billion (USD) per year,10000+ employees, Company - Public (BKW) ,Goods & Svcs
+454,454,Experian,, 1980,"Dublin, Co. Dublin (Ireland)",Financial Analytics & Research,,, $2 to $5 billion (USD) per year,10000+ employees, Company - Public (EXPN) ,Finance
+455,455,Bright Horizons Family Solutions,, 1986,"Watertown, MA",Preschool & Child Care,,, $1 to $2 billion (USD) per year,10000+ employees, Company - Public (BFAM) ,Education
+456,456,kate spade,, 1993,"New York, NY",Other Retail Stores,,, $1 to $2 billion (USD) per year,10000+ employees, Company - Public,Fashion/Retail
+457,457,Baruch College, Unknown, Unknown,"New York, NY",Colleges & Universities,,, Less than $1 million (USD) per year,501 to 1000 employees, College / University,Education
+458,458,Sprinklr,, 2009,"New York, NY",Computer Hardware & Software,,, Unknown / Non-Applicable,1001 to 5000 employees, Company - Private,Technology
+459,459,Integra LifeSciences,, 1989,"Plainsboro, NJ",Health Care Products Manufacturing,,, $1 to $2 billion (USD) per year,1001 to 5000 employees, Company - Public (IART) ,Health
+460,460,Spark Foundry, Unknown, 2017,"Chicago, IL",Advertising & Marketing,,, Unknown / Non-Applicable,51 to 200 employees, Company - Private,Finance
+461,461,New York City Housing Authority, Unknown, Unknown,"New York, NY",Municipal Governments,,, Unknown / Non-Applicable per year,10000+ employees, Government,Govnt/Utilities
+462,462,Martha Stewart Living," Meredith Corporation, Condé Nast", 1997,"New York, NY",Motion Picture Production & Distribution,,, $100 to $500 million (USD) per year,201 to 500 employees, Company - Public (MSO) ,Entertainment
+463,463,TheStreet," MarketWatch, Motley Fool, Acuris Global", 1996,"New York, NY",Publishing,,, $50 to $100 million (USD) per year,501 to 1000 employees, Company - Public (TST) ,Goods & Svcs
+464,464,Life Time," Equinox Fitness, LA Fitness", 1992,"Chanhassen, MN","Health, Beauty, & Fitness",,, $1 to $2 billion (USD) per year,10000+ employees, Company - Private,Health
+465,465,Aflac,, 1955,"Columbus, GA",Insurance Carriers,,, $10+ billion (USD) per year,5001 to 10000 employees, Company - Public (AFL) ,Finance
+466,466,Boston Consulting Group,, 1963,"Boston, MA",Consulting,,, $5 to $10 billion (USD) per year,Unknown, Company - Private,Goods & Svcs
+467,467,Infor,, 2003,"New York, NY",Computer Hardware & Software,,, $2 to $5 billion (USD) per year,10000+ employees, Company - Private,Technology
+468,468,BAYADA Home Health Care,, 1975,"Moorestown, NJ",Health Care Services & Hospitals,,, $1 to $2 billion (USD) per year,10000+ employees, Company - Private,Health
+469,469,"Discovery, Inc.", Unknown, 1985,"New York, NY",TV Broadcast & Cable Networks,,, $5 to $10 billion (USD) per year,10000+ employees, Company - Public (DISCA) ,Entertainment
+470,470,Hunter College, Unknown, Unknown,"New York, NY",Colleges & Universities,,, Less than $1 million (USD) per year,1 to 50 employees, College / University,Education
+471,471,US Standard Products, Unknown, 2014,"Englewood, NJ",Wholesale,,, Unknown / Non-Applicable,51 to 200 employees, Company - Private,Goods & Svcs
+472,472,Keller Williams," RE/MAX, Berkshire Hathaway HomeServices, Redfin", 1983,"Austin, TX",Real Estate,,, $100 to $500 million (USD) per year,201 to 500 employees, Company - Private,Goods & Svcs
+473,473,The Container Store,, 1978,"Coppell, TX","Department, Clothing, & Shoe Stores",,, $500 million to $1 billion (USD) per year,5001 to 10000 employees, Company - Public (TCS) ,Fashion/Retail
+474,474,Gensler,, 1965,"San Francisco, CA",Architectural & Engineering Services,,, $1 to $2 billion (USD) per year,5001 to 10000 employees, Company - Private,Goods & Svcs
+475,475,SinglePlatform,, 2010,"New York, NY",Advertising & Marketing,,Endurance International Group, Unknown / Non-Applicable,51 to 200 employees, Subsidiary or Business Segment,Finance
+476,476,TGI Fridays, Unknown, Unknown,"Dallas, TX",Casual Restaurants,,, $500 million to $1 billion (USD) per year,10000+ employees, Company - Private,Goods & Svcs
+477,477,Konica Minolta Business Solutions," Canon U.S.A., Ricoh USA, Xerox", 1959,"Ramsey, NJ",Computer Hardware & Software,,Konica Minolta, $10+ billion (USD) per year,5001 to 10000 employees, Subsidiary or Business Segment,Technology
+478,478,BDO USA,, 1910,"Chicago, IL",Accounting,,, $1 to $2 billion (USD) per year,1001 to 5000 employees, Company - Private,Finance
+479,479,Marsh,, 1871,"New York, NY",Insurance Agencies & Brokerages,,Marsh & McLennan Companies, $1 to $2 billion (USD) per year,10000+ employees, Subsidiary or Business Segment,Goods & Svcs
+480,480,FCB Global, Unknown, 1873,"Chicago, IL",Advertising & Marketing,,, Unknown / Non-Applicable,1001 to 5000 employees, Subsidiary or Business Segment,Finance
+481,481,Saatchi & Saatchi Group, Unknown, Unknown,"London, England (UK)",Unknown,,, $50 to $100 million (USD) per year,501 to 1000 employees, Contract,Goods & Svcs
+482,482,CareOne,, 1999,"Fort Lee, NJ",Health Care Services & Hospitals,,, Unknown / Non-Applicable,10000+ employees, Company - Private,Health
+483,483,Robert Wood Johnson University Hospital, Unknown, 1884,"New Brunswick, NJ",Health Care Services & Hospitals,,RWJBarnabas Health, $1 to $2 billion (USD) per year,1001 to 5000 employees, Nonprofit Organization,Health
+484,484,NYC Department of Human Resource Administration, Unknown, Unknown,"New York, NY",Federal Agencies,,, Unknown / Non-Applicable per year,201 to 500 employees, Government,Govnt/Utilities
+485,485,Subway," McDonald's, Quiznos, Yum!", Unknown,"Milford, CT",Fast-Food & Quick-Service Restaurants,,, $50 to $100 million (USD) per year,5001 to 10000 employees, Company - Private,Goods & Svcs
+486,486,DICK'S Sporting Goods,, 1948,"Coraopolis, PA",Sporting Goods Stores,,, $5 to $10 billion (USD) per year,10000+ employees, Company - Public (DKS) ,Goods & Svcs
+487,487,American Airlines,, 1926,"Fort Worth, TX",Airlines,,, $10+ billion (USD) per year,10000+ employees, Company - Public (AAL) ,Goods & Svcs
+488,488,EXL Service, Unknown, 1999,"New York, NY",Consulting,,, $500 million to $1 billion (USD) per year,10000+ employees, Company - Public (EXLS) ,Goods & Svcs
+489,489,Allergan,, 1948,"Dublin, Co. Dublin (Ireland)",Biotech & Pharmaceuticals,,, $10+ billion (USD) per year,10000+ employees, Company - Public (AGN) ,Health
+490,490,NBA, Unknown, 1946,"New York, NY",Sports & Recreation,,, Unknown / Non-Applicable per year,1001 to 5000 employees, Company - Private,Entertainment
+491,491,Simon & Schuster, Unknown, 1924,"New York, NY",Publishing,,, $500 million to $1 billion (USD) per year,1001 to 5000 employees, Subsidiary or Business Segment,Goods & Svcs
+492,492,AHRC New York City, Unknown, Unknown,"New York, NY",Social Assistance,,, $10 to $25 million (USD) per year,201 to 500 employees, Nonprofit Organization,Govnt/Utilities
+493,493,SAP,, 1972,"Walldorf, Baden-Württemberg (Germany)",Computer Hardware & Software,,, $10+ billion (USD) per year,10000+ employees, Company - Public (SAP) ,Technology
+494,494,IKEA,, 1943,"Conshohocken, PA",Home Furniture & Housewares Stores,,, Unknown / Non-Applicable,10000+ employees, Company - Private,Goods & Svcs
+495,495,GNC, Unknown, 1935,"Pittsburgh, PA",Drug & Health Stores,,, $2 to $5 billion (USD) per year,10000+ employees, Company - Public (GNC) ,Health
+496,496,Huntington Learning Centers,, 1977,"Oradell, NJ",Education Training Services,,, Unknown / Non-Applicable,1001 to 5000 employees, Company - Private,Education
+497,497,Bluewolf," Accenture, Deloitte", 1999,"New York, NY",IT Services,,IBM, Unknown / Non-Applicable,501 to 1000 employees, Company - Private,Technology
